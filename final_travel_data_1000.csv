@@ -1,0 +1,1001 @@
+Zone,State,City,Place Name,Type,Best Visit Time,Entry Fee,Trip Cost,Stay Duration,Activity Level,Ideal For,Nearest Hub
+Central,CG,Bastar,Chitrakote Falls,Waterfall,Jul-Oct,0,5000-10000,1 Day,Medium,All,Jagdalpur Airport
+Central,CG,Bastar,Teerathgarh Falls,Waterfall,Oct-Feb,0,4000-8000,1 Day,High,Friends,Jagdalpur Airport
+Central,CG,Dhamtari,Gangrel Dam,Nature,Oct-Mar,0,200-1000,1 Day,Low,Families,Raipur Airport
+Central,CG,Gariaband,Jatmai Mata Temple,Spiritual/Waterfall,Jul-Oct,0,500-1500,1 Day,Medium,Adventure Lovers,Raipur Airport
+Central,CG,Gariaband,Ghatarani Waterfalls,Waterfall,Jul-Oct,0,500-1500,1 Day,Medium,Nature Lovers,Raipur Airport
+Central,CG,Jagdalpur,Tirathgarh Falls,Waterfall,Oct-Mar,0,500-1500,1 Day,Medium,Nature Lovers,Raipur Airport
+Central,CG,Kawardha,Bhoramdeo Temple,History/Spiritual,Oct-Mar,0,500-1500,1 Day,Medium,History Lovers,Raipur Airport
+Central,CG,Mahasamund,Barnawapara Wildlife Sanctuary,Wildlife,Nov-Jun,100,1000-4000,1 Day,Medium,Wildlife Lovers,Raipur Airport
+Central,CG,Mainpat,Dhakpo Monastery,Spiritual/Nature,Oct-Mar,0,500-2000,1 Day,Low,Nature Lovers,Raipur Airport
+Central,CG,Raipur,Nandan Van Zoo,Wildlife,Year-round,50,1000-3000,1 Day,Medium,Kids,Raipur Airport
+Central,CG,Raipur,Purkhauti Muktangan,Culture/Art,Year-round,20,200-1000,1 Day,Low,Culture Seekers,Raipur Airport
+Central,CG,Sirpur,Laxman Temple,History/Spiritual,Oct-Mar,25,2000-5000,1 Day,Low,Family,Raipur Airport
+Central,CG,Sirpur,Laxman Temple Sirpur,History,Oct-Mar,25,500-1500,1 Day,Low,History Buffs,Raipur Airport
+Central,MP,Bhedaghat,Dhuandhar Falls,Nature,Sep-Mar,0,1000-3000,1 Day,Medium,Family,Jabalpur Airport
+Central,MP,Bhimbetka,Rock Shelters,History,Oct-Mar,25,2000-5000,1 Day,Medium,Solo,Bhopal Airport
+Central,MP,Bhopal,Upper Lake,Nature,Oct-Mar,0,3000-6000,1 Day,Medium,"Family, Couples",Bhopal Airport
+Central,MP,Bhopal,Bharat Bhavan,Art/Culture,Year-round,10,100-500,2 Hours,Low,Art Lovers,Bhopal Airport
+Central,MP,Bhopal,Van Vihar National Park,Wildlife,Year-round,50,200-1000,3 Hours,Medium,Families,Bhopal Airport
+Central,MP,Bhopal,Indira Gandhi Rashtriya Manav Sangrahalaya,Culture/Museum,Year-round,50,200-1000,1 Day,Medium,Culture Seekers,Bhopal Airport
+Central,MP,Bhopal,Taj-ul-Masajid,Spiritual/History,Year-round,0,100-500,1 Hour,Low,Architecture Lovers,Bhopal Airport
+Central,MP,Gwalior,Gwalior Fort,History,Oct-Mar,75,4000-8000,1 Day,High,"Family, Solo",Gwalior Airport
+Central,MP,Gwalior,Gwalior Zoo,Wildlife,Oct-Mar,20,100-500,2 Hours,Low,Families/Kids,Gwalior Airport
+Central,MP,Gwalior,Teli Ka Mandir,History/Spiritual,Year-round,0,100-500,1 Hour,Low,History Buffs,Gwalior Airport
+Central,MP,Indore,Rajwada Palace,History,Year-round,10,2000-5000,1 Day,Low,"Family, All",Indore Airport
+Central,MP,Indore,Lal Bagh Palace,History,Year-round,10,100-500,2 Hours,Low,Architecture Lovers,Indore Airport
+Central,MP,Indore,Khajrana Ganesh Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Indore Airport
+Central,MP,Indore,Sarafa Bazar,Culture/Food,Year-round,0,200-1000,Evening,Low,Foodies,Indore Airport
+Central,MP,Jabalpur,Bhedaghat,Nature,Oct-Apr,0,5000-10000,1 Day,Medium,"Family, Friends",Jabalpur Airport
+Central,MP,Jabalpur,Madan Mahal Fort,History,Year-round,0,500-1500,1 Day,High,Solo,Jabalpur Airport
+Central,MP,Jabalpur,Marble Rocks,Nature,Sep-Mar,0,500-1500,1 Day,Low,Couples,Jabalpur Airport
+Central,MP,Kanha,Kanha National Park,Wildlife,Oct-Jun,1500,5000-12000,2 Days,Medium,Wildlife Lovers,Jabalpur Airport
+Central,MP,Khajuraho,Erotic Temples,History,Oct-Mar,40,7000-13000,2 Days,Medium,"Solo, Couples",Khajuraho Airport
+Central,MP,Khajuraho,Kandariya Mahadev Temple,History,Oct-Mar,40,1000-3000,1 Day,Low,History Lovers,Khajuraho Airport
+Central,MP,Khajuraho,Lakshmana Temple,History,Oct-Mar,40,500-1500,2 Hours,Low,History Lovers,Khajuraho Airport
+Central,MP,Khandwa,Omkareshwar Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Indore Airport
+Central,MP,Maheshwar,Maheshwar Fort,History,Oct-Mar,0,200-1000,1 Day,Low,History Lovers,Indore Airport
+Central,MP,Mandu,Jahaz Mahal,History,Oct-Mar,25,1000-3000,1 Day,Medium,History Buffs,Indore Airport
+Central,MP,Mandu,Rani Roopmati Pavilion,History/View,Oct-Mar,25,500-1500,1 Day,Medium,History Lovers,Indore Airport
+Central,MP,Orchha,Chaturbhuj Temple,History,Oct-Mar,0,4000-8000,1 Day,Medium,All,Jhansi Station
+Central,MP,Orchha,Orchha Fort,History,Oct-Mar,10,1000-3000,1 Day,Medium,History Buffs,Gwalior Airport
+Central,MP,Pachmarhi,Bee Falls,Nature,Oct-Jun,0,8000-14000,3 Days,Medium,Family,Bhopal Airport
+Central,MP,Pachmarhi,Jata Shankar Caves,Spiritual/Nature,Oct-Jun,0,200-1000,1 Day,Medium,Pilgrims,Bhopal Airport
+Central,MP,Raisen,Bhimbetka Caves,History,Oct-Mar,25,500-1500,1 Day,Medium,History Lovers,Bhopal Airport
+Central,MP,Sanchi,Sanchi Stupa,History,Oct-Mar,40,2000-5000,1 Day,Medium,Solo,Bhopal Airport
+Central,MP,Sanchi,Great Stupa,History,Oct-Mar,30,500-1500,1 Day,Low,History Buffs,Bhopal Airport
+Central,MP,Seoni,Pench National Park,Wildlife,Oct-Jun,1500,5000-10000,2 Days,Medium,Wildlife Lovers,Nagpur Airport
+Central,MP,Ujjain,Mahakaleshwar,Spiritual,Year-round,0,5000-10000,2 Days,Medium,"Family, Senior Citizens",Indore Airport
+Central,MP,Ujjain,Mahakaleshwar Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Indore Airport
+Central,MP,Ujjain,Ram Ghat,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Indore Airport
+Central,MP,Ujjain,Kal Bhairav Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Indore Airport
+Central,MP,Umaria,Bandhavgarh National Park,Wildlife,Oct-Jun,2000,6000-12000,2 Days,Medium,Wildlife Lovers,Jabalpur Airport
+East,BR,Bodh Gaya,Great Buddha Statue,Spiritual,Oct-Mar,0,100-500,1 Hour,Low,Pilgrims,Gaya Airport
+East,BR,Bodh Gaya,Metta Buddharam Temple,Spiritual,Oct-Mar,0,100-500,1 Hour,Low,Pilgrims,Gaya Airport
+East,BR,Bodh Gaya,Royal Bhutan Monastery,Spiritual,Oct-Mar,0,100-500,1 Hour,Low,Pilgrims,Gaya Airport
+East,BR,Bodhgaya,Thai Monastery,Spiritual,Oct-Mar,0,500-2000,1 Day,Low,All,Gaya Airport
+East,BR,Gaya,Mahabodhi Temple,Spiritual,Oct-Mar,0,3000-7000,1 Day,Low,Family,Gaya Airport
+East,BR,Gaya,Vishnupad Temple,Spiritual,Year-round,0,500-1500,1 Day,Low,Pilgrims,Gaya Airport
+East,BR,Nalanda,Nalanda University Ruins,History,Oct-Mar,25,2000-4000,1 Day,Medium,Solo,Patna Airport
+East,BR,Nalanda,Nalanda University,History,Oct-Mar,15,500-1500,1 Day,Medium,History Lovers,Patna Airport
+East,BR,Patna,Golghar,History,Year-round,0,500-1500,1 Day,Medium,Family,Patna Airport
+East,BR,Patna,Patna Museum,History,Year-round,20,500-1500,1 Day,Low,All,Patna Airport
+East,BR,Patna,Mahavir Mandir,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Patna Airport
+East,BR,Patna,Bihar Museum,History/Art,Year-round,100,200-1000,3 Hours,Low,History Lovers,Patna Airport
+East,BR,Pawapuri,Jalmandir,Spiritual,Oct-Mar,0,200-1000,1 Day,Low,Pilgrims,Patna Airport
+East,BR,Rajgir,Vishwa Shanti Stupa,Spiritual,Oct-Mar,0,2000-5000,1 Day,High,Family,Patna Airport
+East,BR,Rajgir,Cyclopean Wall,History,Oct-Mar,0,100-500,1 Hour,Low,History Buffs,Gaya Airport
+East,BR,Rajgir,Bimbisara Jail,History,Oct-Mar,0,100-300,1 Hour,Low,History Lovers,Gaya Airport
+East,BR,Sasaram,Sher Shah Suri Tomb,History,Oct-Mar,25,200-1000,1 Day,Low,History Lovers,Varanasi Airport
+East,BR,Vaishali,Ashoka Pillar,History,Oct-Mar,25,1000-3000,1 Day,Low,All,Patna Airport
+East,JH,Deoghar,Baba Baidyanath,Spiritual,Year-round,0,4000-8000,2 Days,Medium,Family,Deoghar Airport
+East,JH,Deoghar,Baidyanath Dham,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Deoghar Airport
+East,JH,Deoghar,Naulakha Mandir,Spiritual,Year-round,0,100-500,1 Hour,Low,All,Deoghar Airport
+East,JH,Dhanbad,Maithon Dam,Nature,Oct-Mar,0,2000-5000,1 Day,Low,Family,Dhanbad Station
+East,JH,Dumka,Basukinath Temple,Spiritual,Year-round,0,500-1500,1 Day,Medium,Pilgrims,Deoghar Airport
+East,JH,Hazaribagh,Hazaribagh Wildlife Sanctuary,Wildlife,Oct-Mar,50,1000-3000,1 Day,Medium,Wildlife Lovers,Ranchi Airport
+East,JH,Jamshedpur,Jubilee Park,Nature,Oct-Mar,0,1000-3000,1 Day,Low,Family,Ranchi Airport
+East,JH,Jamshedpur,Dalma Wildlife Sanctuary,Wildlife,Oct-Mar,100,1000-3000,1 Day,Medium,Nature Lovers,Ranchi Airport
+East,JH,Netarhat,Magnolia Sunset Point,Nature/View,Oct-Mar,0,500-2000,1 Day,Low,Couples,Ranchi Airport
+East,JH,Ranchi,Hundru Falls,Nature,Oct-Mar,0,2000-5000,1 Day,High,Friends,Ranchi Airport
+East,JH,Ranchi,Pahari Mandir,Spiritual,Year-round,0,500-1500,1 Day,High,Family,Ranchi Airport
+East,JH,Ranchi,Dassam Falls,Nature,Oct-Mar,0,500-1500,1 Day,Medium,Nature Lovers,Ranchi Airport
+East,JH,Ranchi,Tagore Hill,Nature/History,Year-round,0,100-500,2 Hours,Medium,All,Ranchi Airport
+East,OD,Bhubaneswar,Lingaraj Temple,Spiritual,Year-round,0,1000-3000,1 Day,Low,Family,Bhubaneswar Airport
+East,OD,Bhubaneswar,Nandankanan Zoo,Wildlife,Oct-Mar,50,1000-3000,1 Day,High,Family,Bhubaneswar Airport
+East,OD,Bhubaneswar,Udayagiri Caves,History,Oct-Mar,25,500-1500,1 Day,Medium,Solo,Bhubaneswar Airport
+East,OD,Bhubaneswar,Khandagiri Caves,History,Oct-Mar,25,500-1500,1 Day,Medium,Solo,Bhubaneswar Airport
+East,OD,Bhubaneswar,Dhauli Hill,Spiritual,Year-round,0,500-1500,1 Day,Low,Family,Bhubaneswar Airport
+East,OD,Bhubaneswar,Ekamra Kanan,Nature,Year-round,20,500-1500,1 Day,Low,Family,Bhubaneswar Airport
+East,OD,Bhubaneswar,Udayagiri and Khandagiri Caves,History,Oct-Mar,25,200-1000,1 Day,Medium,History Buffs,Bhubaneswar Airport
+East,OD,Bhubaneswar,Nandankanan Zoological Park,Wildlife,Oct-Mar,50,500-1500,1 Day,Medium,Families,Bhubaneswar Airport
+East,OD,Bhubaneswar,Rajarani Temple,History/Spiritual,Oct-Mar,25,100-500,1 Hour,Low,History Buffs,Bhubaneswar Airport
+East,OD,Bhubaneswar,Mukteshwar Temple,History/Spiritual,Oct-Mar,0,100-500,1 Hour,Low,History Buffs,Bhubaneswar Airport
+East,OD,Bhubaneswar,Dhauli Shanti Stupa,History/Spiritual,Oct-Mar,0,200-1000,1 Day,Low,All,Bhubaneswar Airport
+East,OD,Cuttack,Barabati Fort,History,Oct-Mar,0,1000-3000,1 Day,Low,All,Cuttack Station
+East,OD,Cuttack,Netaji Birthplace Museum,History,Year-round,10,500-1500,1 Day,Low,All,Cuttack Station
+East,OD,Cuttack,Netaji Birth Place Museum,History,Year-round,20,100-500,1 Hour,Low,History Lovers,Bhubaneswar Airport
+East,OD,Gopalpur,Gopalpur Beach,Beach,Oct-Mar,0,4000-8000,2 Days,Low,Couples,Berhampur Station
+East,OD,Konark,Konark Sun Temple,History,Oct-Mar,40,2000-5000,1 Day,Medium,All,Bhubaneswar Airport
+East,OD,Konark,Sun Temple Konark,History,Oct-Mar,40,500-1500,1 Day,Low,History Lovers,Bhubaneswar Airport
+East,OD,Koraput,Duduma Waterfalls,Nature,Oct-Mar,0,5000-9000,1 Day,High,Friends,Visakhapatnam Airport
+East,OD,Puri,Jagannath Temple,Spiritual,Year-round,0,3000-7000,1 Day,Medium,Family,Puri Station
+East,OD,Puri,Puri Beach,Beach,Oct-Mar,0,2000-5000,2 Days,Low,All,Puri Station
+East,OD,Puri,Chilika Lake,Wildlife/Nature,Nov-Feb,5000-10000,1 Day,Medium,Family,Bhubaneswar Airport,Bhubaneswar Airport
+East,OD,Puri,Chilika Wildlife Sanctuary,Wildlife,Nov-Feb,0,4000-8000,1 Day,Medium,Family,Puri Station
+East,OD,Puri,Raghurajpur Village,Culture,Year-round,0,1000-3000,1 Day,Low,Solo,Puri Station
+East,OD,Puri,Jagannath Temple Puri,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Bhubaneswar Airport
+East,OD,Puri,Raghurajpur Artist Village,Culture/Art,Year-round,0,500-2000,1 Day,Low,Art Lovers,Bhubaneswar Airport
+East,OD,Sambalpur,Hirakud Dam,Engineering,Sep-Mar,0,2000-5000,1 Day,Low,Family,Jharsuguda Airport
+East,WB,Alipurduar,Jaldapara National Park,Wildlife,Oct-May,500,3000-7000,1 Day,Medium,Wildlife Lovers,Bagdogra Airport
+East,WB,Bolpur,Shantiniketan,Culture,Oct-Mar,0,2000-5000,2 Days,Low,Culture Lovers,Kolkata Airport
+East,WB,Darjeeling,Tiger Hill,Nature/View,Oct-May,0,2000-5000,1 Day,Medium,All,Bagdogra Airport
+East,WB,Darjeeling,Batasia Loop,History/Nature,Year-round,20,500-1000,1 Day,Low,Family,Bagdogra Airport
+East,WB,Darjeeling,Darjeeling Zoo,Wildlife,Oct-Mar,60,1000-3000,1 Day,Medium,Family,Bagdogra Airport
+East,WB,Darjeeling,Peace Pagoda,Spiritual,Year-round,0,500-1500,1 Day,Low,All,Bagdogra Airport
+East,WB,Darjeeling,Himalayan Mountaineering Institute,Education,Oct-Mar,40,500-1500,1 Day,Low,Solo,Bagdogra Airport
+East,WB,Darjeeling,Mirik Lake,Nature,Mar-Jun,0,1000-3000,1 Day,Low,Couples/Family,Bagdogra Airport
+East,WB,Darjeeling,Eagle's Crag,View Point,Oct-Mar,0,500-1500,1 Day,Low,Nature Lovers,Bagdogra Airport
+East,WB,Digha,New Digha Beach,Beach,Oct-Mar,0,3000-6000,2 Days,Low,Family,Digha Station
+East,WB,Howrah,Belur Math,Spiritual,Year-round,0,100-500,2-3 Hours,Low,All,Kolkata Airport
+East,WB,Kalimpong,Deolo Hill,Nature,Oct-May,0,2000-5000,1 Day,Low,All,Bagdogra Airport
+East,WB,Kalimpong,Durpin Dara Monastery,Spiritual,Mar-Jun,0,100-500,1 Hour,Low,All,Bagdogra Airport
+East,WB,Kolkata,Victoria Memorial,History,Oct-Mar,30,1000-3000,1 Day,Medium,Family,Kolkata Airport
+East,WB,Kolkata,Howrah Bridge,Engineering,Evening,0,500-1500,1 Day,Low,All,Howrah Station
+East,WB,Kolkata,Dakshineswar Kali,Spiritual,Year-round,0,1000-3000,1 Day,Medium,Family,Kolkata Airport
+East,WB,Kolkata,Science City,Education,Year-round,60,1000-3000,1 Day,Medium,Kids,Kolkata Airport
+East,WB,Kolkata,Eden Gardens,Sports,Year-round,0,500-2000,1 Day,Low,Friends,Kolkata Airport
+East,WB,Kolkata,Birla Planetarium,Education,Year-round,100,500-1500,1 Day,Low,Kids,Kolkata Airport
+East,WB,Kolkata,Park Street,Culture/Food,Evening,0,2000-5000,1 Day,Low,Friends,Kolkata Airport
+East,WB,Kolkata,Princep Ghat,History/View,Evening,0,500-1500,1 Day,Low,Couples,Kolkata Airport
+East,WB,Kolkata,Dakshineswar Kali Temple,Spiritual,Year-round,0,200-500,2-3 Hours,Medium,Pilgrims,Kolkata Airport
+East,WB,Kolkata,Victoria Memorial Hall,History,Year-round,30,200-1000,2 Hours,Low,All,Kolkata Airport
+East,WB,Kolkata,Indian Museum,History,Year-round,50,200-1000,3 Hours,Low,History Lovers,Kolkata Airport
+East,WB,Kolkata,Science City Kolkata,Science/Education,Year-round,60,500-1500,1 Day,Medium,Students/Kids,Kolkata Airport
+East,WB,Kolkata,Eco Park Kolkata,Nature/Entertainment,Year-round,30,200-1000,1 Day,Low,Families,Kolkata Airport
+East,WB,Murshidabad,Hazarduari Palace,History,Oct-Mar,20,2000-5000,1 Day,Medium,Family,Kolkata Airport
+East,WB,Shantiniketan,Visva Bharati,Culture,Oct-Mar,0,3000-6000,2 Days,Low,Solo,Kolkata Airport
+East,WB,Siliguri,ISKON Temple,Spiritual,Year-round,0,500-1500,1 Day,Low,Family,Bagdogra Airport
+East,WB,Sundarbans,Sundarbans National Park,Wildlife,Oct-Mar,200,5000-15000,2-3 Days,High,Adventure Lovers,Kolkata Airport
+Islands,AN,Baratang,Limestone Caves,Nature,Oct-May,0,4000-7000,1 Day,High,Solo,Port Blair Airport
+Islands,AN,Baratang,Baratang Island,Nature/Caves,Oct-May,0,2000-5000,1 Day,High,Adventure Lovers,Port Blair Airport
+Islands,AN,Diglipur,Ross and Smith Islands,Island,Oct-May,0,3000-7000,1 Day,Medium,Nature Lovers,Port Blair Airport
+Islands,AN,Havelock,Radhanagar Beach,Beach,Oct-May,0,5000-10000,1 Day,Low,Couples,Port Blair Airport
+Islands,AN,Havelock,Elephant Beach,Adventure,Oct-May,0,3000-6000,1 Day,High,Friends,Port Blair Airport
+Islands,AN,Havelock,Neil Island,Beach/Island,Oct-May,0,5000-15000,2 Days,Medium,Couples/Friends,Port Blair Airport
+Islands,AN,Neil Island,Bharatpur Beach,Beach,Oct-May,0,2000-5000,1 Day,Medium,Family,Port Blair Airport
+Islands,AN,Port Blair,Cellular Jail,History,Year-round,30,1000-3000,1 Day,Low,Family,Port Blair Airport
+Islands,AN,Port Blair,Ross Island,History,Oct-May,50,1000-2000,1 Day,Medium,All,Port Blair Airport
+Islands,AN,Port Blair,Jolly Buoy Island,Island,Nov-Apr,750,2000-5000,1 Day,Medium,Nature Lovers,Port Blair Airport
+Islands,AN,Port Blair,Mount Harriet,Nature/View,Oct-May,25,500-1500,1 Day,Medium,Nature Lovers,Port Blair Airport
+Islands,AN,Port Blair,Chidiya Tapu,Nature/View,Oct-May,0,500-1500,1 Day,Low,All,Port Blair Airport
+Islands,AN,Port Blair,Samudrika Marine Museum,History/Nature,Year-round,50,100-500,2 Hours,Low,Everyone,Port Blair Airport
+Islands,AN,Wandoor,Mahatma Gandhi Marine National Park,Wildlife/Nature,Nov-May,50,1000-3000,1 Day,Medium,Nature Lovers,Port Blair Airport
+Islands,LD,Agatti,Agatti Island,Beach,Oct-Mar,0,15000-25000,2 Days,Medium,Couples,Agatti Airport
+Islands,LD,Bangaram,Bangaram Atoll,Beach,Oct-Mar,0,20000-35000,3 Days,Low,Solo,Agatti Airport
+Islands,LD,Lakshadweep,Bangaram Island,Island,Oct-May,0,10000-20000,2-3 Days,Low,Couples,Agatti Airport
+Islands,LD,Lakshadweep,Kalpeni Island,Island,Oct-May,0,5000-15000,2 Days,Medium,Water Sports,Agatti Airport
+Islands,LD,Lakshadweep,Minicoy Island,Island,Oct-May,0,10000-20000,3 Days,Medium,Nature Lovers,Agatti Airport
+Islands,LD,Lakshadweep,Kavaratti Lagoon,Island,Oct-May,0,8000-18000,2 Days,Medium,All,Agatti Airport
+Islands,LD,Lakshadweep,Kadmat Island,Island,Oct-May,0,10000-20000,3 Days,Medium,Couples,Agatti Airport
+Islands,LD,Lakshadweep,Kavaratti Marine Aquarium,Nature,Oct-May,20,100-300,1 Hour,Low,Kids/Families,Agatti Airport
+NE,AR,Bomdila,Bomdila View Point,Nature,Oct-May,0,500-1500,1 Day,Low,All,Tezpur Airport
+NE,AR,Dirang,Sangti Valley,Nature,Oct-Apr,0,4000-8000,2 Days,Low,Solo,Tezpur Airport
+NE,AR,Itanagar,Ita Fort,History,Year-round,0,500-1500,1 Day,Low,All,Lilabari Airport
+NE,AR,Itanagar,Ganga Lake,Nature,Oct-Apr,20,100-500,1 Day,Low,Nature Lovers,Lilabari Airport
+NE,AR,Tawang,Tawang Monastery,Spiritual,Oct-Apr,0,8000-15000,2 Days,Low,Family,Tezpur Airport
+NE,AR,Tawang,Sela Pass,Snow,Year-round,0,5000-10000,1 Day,Medium,Solo,Tezpur Airport
+NE,AR,Ziro,Ziro Valley,Culture/Nature,Oct-Mar,0,6000-12000,3 Days,Low,Solo,Lilabari Airport
+NE,AS,Digboi,Oil Museum,History,Year-round,0,1000-3000,1 Day,Low,All,Dibrugarh Airport
+NE,AS,Guwahati,Kamakhya Temple,Spiritual,Year-round,0,3000-6000,1 Day,Medium,"Family, Senior Citizens",Guwahati Airport
+NE,AS,Guwahati,Umananda Island,Spiritual,Year-round,0,1000-3000,1 Day,Medium,All,Guwahati Airport
+NE,AS,Guwahati,Assam State Museum,History,Year-round,10,200-1000,1 Day,Low,All,Guwahati Airport
+NE,AS,Guwahati,Pobitora Wildlife,Wildlife,Nov-Apr,500,5000-10000,1 Day,Medium,Family,Guwahati Airport
+NE,AS,Guwahati,Balaji Temple,Spiritual,Year-round,0,500-1500,1 Day,Low,Family,Guwahati Airport
+NE,AS,Guwahati,Guwahati Planetarium,Science,Year-round,30,100-500,1 Hour,Low,Students/Kids,Guwahati Airport
+NE,AS,Haflong,Haflong Lake,Nature,Oct-Mar,0,3000-6000,2 Days,Low,All,Silchar Airport
+NE,AS,Jorhat,Majuli,Culture/Nature,Oct-Mar,0,2000-5000,2 Days,Medium,Culture Seekers,Jorhat Airport
+NE,AS,Kaziranga,Kaziranga National Park,Wildlife,Nov-Apr,100,3000-8000,1 Day,Medium,Wildlife Lovers,Jorhat Airport
+NE,AS,Majuli,River Island,Culture,Oct-Mar,0,4000-8000,2 Days,Low,Solo,Jorhat Airport
+NE,AS,Sivasagar,Rang Ghar,History,Oct-Mar,25,1000-3000,1 Day,Low,All,Jorhat Airport
+NE,AS,Tezpur,Agnigarh,History,Year-round,20,500-1500,1 Day,Medium,All,Tezpur Airport
+NE,ML,Cherrapunji,Living Root Bridge,Nature/Trek,Year-round,50,5000-10000,2 Days,High,"Solo, Friends",Shillong Airport
+NE,ML,Cherrapunji,Nohkalikai Falls,Waterfall,Jun-Sep,20,1000-3000,1 Day,Medium,All,Shillong Airport
+NE,ML,Cherrapunji,Mawsmai Cave,Nature,Year-round,20,500-1500,1 Day,High,Friends,Shillong Airport
+NE,ML,Cherrapunji,Seven Sisters Falls,Waterfall,Jun-Sep,0,500-1500,1 Day,Low,All,Shillong Airport
+NE,ML,Cherrapunji,Double Decker Root Bridge,Nature/Trek,Oct-May,0,1000-3000,1 Day,High,Adventure Lovers,Shillong Airport
+NE,ML,Cherrapunji,Arwah Cave,Nature/Caves,Oct-May,20,200-500,2 Hours,Medium,All,Shillong Airport
+NE,ML,Dawki,Umngot River,Nature,Nov-May,0,4000-8000,1 Day,Medium,"Friends, Couples",Shillong Airport
+NE,ML,Dawki,Dawki Lake,Nature,Nov-May,0,1000-3000,1 Day,Medium,Friends/Couples,Shillong Airport
+NE,ML,Jowai,Krang Suri Falls,Waterfall,Sep-May,20,3000-6000,1 Day,Medium,Friends,Shillong Airport
+NE,ML,Mawlynnong,Cleanest Village,Culture,Year-round,0,3000-6000,1 Day,Low,Family,Shillong Airport
+NE,ML,Shillong,Elephant Falls,Waterfall,Jun-Sep,20,1000-3000,1 Day,Low,Family,Shillong Airport
+NE,ML,Shillong,Shillong Peak,Nature/View,Oct-May,10,500-1500,1 Day,Low,All,Shillong Airport
+NE,ML,Shillong,Laitlum Canyons,Nature,Year-round,0,1000-3000,1 Day,Medium,Solo,Shillong Airport
+NE,ML,Shillong,Ward’s Lake,Nature,Year-round,10,200-1000,1 Day,Low,All,Shillong Airport
+NE,ML,Shillong,Mawlynnong Village,Culture/Nature,Year-round,50,1000-3000,1 Day,Low,Nature Lovers,Shillong Airport
+NE,ML,Shillong,Umiam Lake,Nature/Lake,Oct-May,0,500-2000,1 Day,Low,Families,Shillong Airport
+NE,ML,Shillong,Don Bosco Museum,Culture,Year-round,100,200-1000,3 Hours,Low,Culture Lovers,Shillong Airport
+NE,ML,Shillong,Ward's Lake,Nature,Year-round,10,100-500,2 Hours,Low,Families,Shillong Airport
+NE,ML,Shillong,Police Bazar,Culture/Shopping,Year-round,0,500-3000,Evening,Medium,Shoppers,Shillong Airport
+NE,MN,Imphal,Loktak Lake,Nature,Oct-Mar,0,4000-9000,1 Day,Medium,Solo,Imphal Airport
+NE,MN,Imphal,Kangla Fort,History,Year-round,20,1000-3000,1 Day,Low,All,Imphal Airport
+NE,MN,Imphal,Imphal War Cemetery,History,Oct-Mar,0,100-300,1 Hour,Low,History Lovers,Imphal Airport
+NE,MN,Moirang,Keibul Lamjao Park,Wildlife,Oct-Mar,50,2000-5000,1 Day,Medium,All,Imphal Airport
+NE,MN,Moirang,INA Memorial,History/Patriotism,Year-round,20,100-500,2 Hours,Low,All,Imphal Airport
+NE,MZ,Aizawl,Solomon Temple,Spiritual,Year-round,0,1000-3000,1 Day,Low,Family,Aizawl Airport
+NE,MZ,Aizawl,Durtlang Hills,Nature,Year-round,0,500-1500,1 Day,Medium,All,Aizawl Airport
+NE,MZ,Aizawl,Reiek Tlang,Nature/Trek,Oct-Mar,0,1000-3000,1 Day,High,Adventure Seekers,Lengpui Airport
+NE,MZ,Aizawl,Solomon's Temple,Spiritual/History,Year-round,0,100-500,1 Hour,Low,Architecture Lovers,Lengpui Airport
+NE,MZ,Saiha,Phawngpui Peak,Nature/Trek,Oct-Apr,0,3000-8000,2 Days,High,Adventure Lovers,Lengpui Airport
+NE,MZ,Thenzawl,Vantawng Falls,Waterfall,Sep-Jan,0,500-1500,1 Day,Medium,Nature Lovers,Lengpui Airport
+NE,NL,Kohima,War Cemetery,History,Year-round,0,1000-3000,1 Day,Low,All,Dimapur Airport
+NE,NL,Kohima,Kisama Heritage Village,Culture,Dec (Hornbill),50,3000-7000,1 Day,Medium,All,Dimapur Airport
+NE,NL,Kohima,Kohima War Cemetery,History,Oct-Mar,0,100-500,1-2 Hours,Low,History Lovers,Dimapur Airport
+NE,NL,Kohima,Dzukou Valley,Nature/Trek,Jun-Sep,50,3000-7000,2 Days,High,Trekking Enthusiasts,Dimapur Airport
+NE,NL,Kohima,Nagaland State Museum,History/Culture,Oct-Mar,20,100-500,2 Hours,Low,Culture Seekers,Dimapur Airport
+NE,NL,Kohima,Khonoma Village,Nature/Culture,Oct-Mar,0,1000-3000,1 Day,Medium,Nature Lovers,Dimapur Airport
+NE,NL,Mokokchung,Longkhum Village,Culture,Year-round,0,2000-5000,1 Day,Low,Solo,Dimapur Airport
+NE,SK,Gangtok,MG Marg,Culture/Food,Oct-May,0,2000-5000,1 Day,Low,All,Pakyong Airport
+NE,SK,Gangtok,Tsomgo Lake,Snow/Lake,Mar-May,0,5000-10000,1 Day,Medium,All,Pakyong Airport
+NE,SK,Gangtok,Rumtek Monastery,Spiritual,Oct-May,0,1000-3000,1 Day,Low,Family,Pakyong Airport
+NE,SK,Gangtok,Nathu La Pass,Snow/Border,Wed-Sun,0,7000-12000,1 Day,High,Friends,Pakyong Airport
+NE,SK,Gangtok,Enchey Monastery,Spiritual,Oct-May,0,500-1500,1 Day,Low,Family,Pakyong Airport
+NE,SK,Gangtok,Do Drul Chorten,Spiritual,Year-round,0,500-1500,1 Day,Low,Family,Pakyong Airport
+NE,SK,Gangtok,Nathula Pass,Snow/Border,May-Oct,200,3000-7000,1 Day,Medium,Adventure Seekers,Bagdogra Airport
+NE,SK,Gangtok,Banjhakri Falls,Waterfall/Nature,Oct-May,50,200-1000,2 Hours,Low,Families,Bagdogra Airport
+NE,SK,Lachen,Gurudongmar Lake,Snow/Lake,Apr-Jun,0,12000-20000,2 Days,High,Solo,Pakyong Airport
+NE,SK,Lachung,Yumthang Valley,Snow/Nature,Apr-Jun,0,10000-18000,2 Days,Medium,"Friends, Couples",Pakyong Airport
+NE,SK,Namchi,Chardham,Spiritual,Year-round,0,3000-7000,1 Day,Low,Family,Pakyong Airport
+NE,SK,Namchi,Char Dham Namchi,Spiritual,Mar-Jun,0,500-2000,1 Day,Medium,Pilgrims,Bagdogra Airport
+NE,SK,Pelling,Skywalk,Adventure,Oct-May,100,4000-8000,1 Day,Medium,All,Pakyong Airport
+NE,SK,Pelling,Pemayangtse Monastery,Spiritual,Mar-Jun,20,100-500,2 Hours,Low,History Buffs,Bagdogra Airport
+NE,SK,Ravangla,Buddha Park,Spiritual,Year-round,0,2000-5000,1 Day,Low,All,Pakyong Airport
+NE,TR,Agartala,Ujjayanta Palace,History,Year-round,10,1000-3000,1 Day,Low,Family,Agartala Airport
+NE,TR,Kailashahar,Unakoti,History/Spiritual,Oct-Mar,0,500-2000,1 Day,Medium,History Seekers,Agartala Airport
+NE,TR,Melaghar,Neermahal,History,Oct-Mar,50,500-1500,1 Day,Low,All,Agartala Airport
+NE,TR,Udaipur,Tripura Sundari,Spiritual,Year-round,0,2000-5000,1 Day,Low,Family,Agartala Airport
+NE,TR,Unakoti,Rock Carvings,History,Oct-Mar,0,3000-7000,1 Day,High,Solo,Agartala Airport
+North,CH,Chandigarh,Sukhna Lake,Nature,Year-round,0,100-500,1 Day,Low,All,Chandigarh Airport
+North,CH,Chandigarh,Zakir Hussain Rose Garden,Nature,Feb-Mar,0,100-500,2 Hours,Low,All,Chandigarh Airport
+North,CH,Chandigarh,Rock Garden of Chandigarh,Art/Nature,Year-round,30,100-500,3 Hours,Medium,Everyone,Chandigarh Airport
+North,DL,Delhi,Red Fort,History,Oct-Mar,35,4000-8000,1 Day,Medium,"Family, All",Delhi Airport
+North,DL,Delhi,Qutub Minar,History,Year-round,35,2000-5000,1 Day,Medium,"Family, All",Delhi Airport
+North,DL,Delhi,India Gate,Patriotism,Evening,0,1000-3000,1 Day,Low,"Family, Kids",Delhi Airport
+North,DL,Delhi,Agrasen ki Baoli,History,Year-round,0,100-500,1-2 Hours,Low,Everyone,Delhi Airport
+North,DL,Delhi,Lodhi Garden,Nature/History,Oct-Mar,0,100-500,1-2 Hours,Low,Couples/Family,Delhi Airport
+North,DL,Delhi,Safdarjung Tomb,History,Year-round,25,200-500,1-2 Hours,Low,History Lovers,Delhi Airport
+North,DL,Delhi,Raj Ghat,History,Year-round,0,100-300,1 Hour,Low,All,Delhi Airport
+North,DL,Delhi,National Museum,History/Art,Year-round,20,200-500,3-4 Hours,Medium,History Buffs,Delhi Airport
+North,DL,Delhi,NGMA,Art,Year-round,20,200-500,2-3 Hours,Low,Art Lovers,Delhi Airport
+North,DL,Delhi,ISKCON Temple Delhi,Spiritual,Year-round,0,100-500,2 Hours,Low,All,Delhi Airport
+North,DL,Delhi,Birla Mandir Delhi,Spiritual,Year-round,0,100-500,2 Hours,Low,All,Delhi Airport
+North,DL,Delhi,Jantar Mantar Delhi,History,Year-round,25,100-500,2 Hours,Low,History Buffs,Delhi Airport
+North,DL,Delhi,Purana Qila Delhi,History,Year-round,25,200-1000,1 Day,Medium,History Lovers,Delhi Airport
+North,DL,Delhi,Dilli Haat,Culture/Shopping,Year-round,30,500-2000,1 Day,Low,Shoppers/Foodies,Delhi Airport
+North,DL,Delhi,Garden of Five Senses,Nature,Year-round,35,200-1000,1 Day,Low,Couples,Delhi Airport
+North,DL,Delhi,Waste to Wonder Park,Engineering/Art,Year-round,50,200-1000,2 Hours,Low,Families,Delhi Airport
+North,DL,Delhi,National Rail Museum,History/Education,Year-round,100,200-1000,3 Hours,Low,Kids,Delhi Airport
+North,DL,Delhi,Sunder Nursery,Nature/History,Year-round,40,200-1000,1 Day,Low,Nature Lovers,Delhi Airport
+North,DL,Delhi,National Handicrafts and Handlooms Museum,Culture/Art,Year-round,20,100-500,2 Hours,Low,Art Lovers,Delhi Airport
+North,DL,Delhi,National Science Centre,Science/Education,Year-round,60,100-500,3 Hours,Low,Students/Kids,Delhi Airport
+North,DL,Delhi,Lotus Temple,Spiritual,Year-round,0,100-500,2 Hours,Low,Everyone,Delhi Airport
+North,DL,Delhi,Akshardham Temple Delhi,Spiritual/History,Year-round,0,500-2000,1 Day,Medium,Families,Delhi Airport
+North,DL,Delhi,Hauz Khas Village,History/Culture,Year-round,0,500-2000,Evening,Low,Friends/Couples,Delhi Airport
+North,DL,Delhi,Chhatarpur Temple,Spiritual,Year-round,0,100-500,2 Hours,Low,Pilgrims,Delhi Airport
+North,HP,Bir Billing,Paragliding,Adventure,Oct-Jun,0,10000-15000,2 Days,High,"Solo, Friends",Kangra Airport
+North,HP,Chail,Chail Palace,History,Year-round,100,3000-6000,1 Day,Low,Couples,Shimla Airport
+North,HP,Chamba,Khajjiar Lake,Nature,Year-round,0,4000-8000,1 Day,Low,All,Pathankot Station
+North,HP,Chamba,Lakshmi Narayan Temple Chamba,Spiritual/History,Year-round,0,100-500,1 Day,Low,History Lovers,Pathankot Airport
+North,HP,Dalhousie,Khajjiar,Nature,Mar-Jun,0,7000-12000,1 Day,Medium,"Couples, Family",Pathankot Station
+North,HP,Dalhousie,Panchpula,Waterfall/Nature,Year-round,0,200-500,2 Hours,Low,All,Pathankot Airport
+North,HP,Dalhousie,Dainkund Peak,View Point,Oct-May,0,500-1500,1 Day,Medium,Nature Lovers,Pathankot Airport
+North,HP,Dharamshala,Mcleodganj,Culture,Oct-Jun,0,8000-14000,2 Days,Medium,"Solo, Friends",Kangra Airport
+North,HP,Dharamshala,Bhagsunag Falls,Waterfall,Mar-Jun,0,200-1000,2 Hours,Medium,All,Gaggal Airport
+North,HP,Dharamshala,Namgyal Monastery,Spiritual,Year-round,0,100-500,2 Hours,Low,Spiritual Seekers,Gaggal Airport
+North,HP,Dharamshala,Dharamshala Cricket Stadium,Sports/View,Year-round,0,100-500,1 Hour,Low,Sports Fans,Gaggal Airport
+North,HP,Kangra,Kangra Fort,History,Oct-Mar,150,2000-5000,1 Day,High,Solo,Kangra Airport
+North,HP,Kangra,Jwalamukhi Temple,Spiritual,Year-round,0,1000-3000,1 Day,Medium,Family,Kangra Airport
+North,HP,Kasol,Kheerganga,Trek,May-Nov,0,3000-6000,2 Days,High,"Solo, Friends",Bhuntar Airport
+North,HP,Kasol,Manikaran Sahib,Spiritual,Year-round,0,500-1500,1 Day,Medium,Pilgrims,Bhuntar Airport
+North,HP,Kaza,Key Monastery,Spiritual,Jun-Sep,0,15000-25000,1 Day,Low,"Solo, Family",Bhuntar Airport
+North,HP,Kaza,Kye Gompa,Spiritual,Jun-Sep,0,1000-3000,1 Day,High,Adventure Lovers,Kullu Airport
+North,HP,Kinnaur,Chitkul,Nature,May-Oct,0,3000-7000,2 Days,Low,Peace Seekers,Shimla Airport
+North,HP,Kufri,Adventure Park,Adventure/Snow,Dec-Feb,500,3000-7000,1 Day,High,Kids,Shimla Airport
+North,HP,Kullu,Rafting Point,Adventure,Mar-Jun,500,3000-6000,1 Day,High,Friends,Bhuntar Airport
+North,HP,Kullu,Great Himalayan National Park,Wildlife,Mar-Jun,50,2000-7000,2 Days,High,Adventure Lovers,Bhuntar Airport
+North,HP,Manali,Hadimba Temple,Mandir,Year-round,0,5000-10000,1 Day,Low,"Family, Senior Citizens",Bhuntar Airport
+North,HP,Manali,Solang Valley,Adventure,Dec-Feb,0,8000-12000,1 Day,High,"Friends, Kids",Bhuntar Airport
+North,HP,Manali,Rohtang Pass,Snow,May-Oct,500,10000-15000,1 Day,High,"Friends, Kids",Bhuntar Airport
+North,HP,Manali,Vashisht Hot Springs,Nature/Spiritual,Year-round,0,100-500,1 Hour,Low,All,Bhuntar Airport
+North,HP,Manali,Jogini Falls,Nature/Trek,Mar-Jun,0,100-500,1 Day,Medium,Nature Lovers,Bhuntar Airport
+North,HP,Manali,Old Manali,Culture,Year-round,0,500-2000,1 Day,Low,Backpackers,Bhuntar Airport
+North,HP,Mandi,Rewalsar Lake,Spiritual,Year-round,0,2000-5000,1 Day,Low,Family,Bhuntar Airport
+North,HP,Narkanda,Hatu Peak,Nature/Trek,Apr-Nov,0,4000-8000,1 Day,High,Solo,Shimla Airport
+North,HP,Palampur,Tea Gardens,Nature,Year-round,0,2000-5000,1 Day,Low,All,Kangra Airport
+North,HP,Shimla,The Ridge,Hill Station,Oct-Jun,0,7000-12000,1 Day,Medium,"Couples, Friends",Shimla Airport
+North,HP,Shimla,Jakhu Temple,Spiritual,Year-round,0,2000-4000,1 Day,High,"Family, Friends",Shimla Airport
+North,HP,Shimla,Kufri Fun World,Adventure,Year-round,500,1500-3000,1 Day,Medium,Kids/Families,Shimla Airport
+North,HP,Shimla,Tara Devi Temple,Spiritual,Year-round,0,200-1000,1 Day,Medium,Families,Shimla Airport
+North,HP,Shimla,Rashtrapati Niwas,History,Year-round,50,200-1000,2 Hours,Low,History Lovers,Shimla Airport
+North,HP,Shimla,Annandale,History/Nature,Year-round,0,100-500,2 Hours,Low,Families,Shimla Airport
+North,HP,Shimla,Summer Hill,Nature/View,Year-round,0,100-500,1 Day,Low,All,Shimla Airport
+North,HP,Spiti,Dhankar Monastry,History,Jun-Sep,0,18000-28000,1 Day,Medium,"Solo, Friends",Bhuntar Airport
+North,HP,Spiti,Chandratal Lake,Nature/Trek,Jun-Sep,0,5000-10000,2 Days,Medium,Adventure Lovers,Kullu Airport
+North,HP,Spiti,Dhankar Monastery,Spiritual/History,Jun-Sep,0,1000-3000,1 Day,High,Adventure Lovers,Kullu Airport
+North,HP,Spiti,Tabo Monastery,History/Spiritual,Jun-Sep,0,1000-3000,1 Day,Medium,History Buffs,Kullu Airport
+North,HR,Faridabad,Surajkund Lake,History/Culture,Feb-Mar,0,200-1000,1 Day,Low,Culture Lovers,Delhi Airport
+North,HR,Gurgaon,Sultanpur Bird Sanctuary,Wildlife,Nov-Feb,5,500-1500,1 Day,Low,All,Delhi Airport
+North,HR,Gurgaon,Kingdom of Dreams,Culture/Entertainment,Year-round,600,3000-7000,1 Day,Medium,Family,Delhi Airport
+North,HR,Gurgaon,Damdama Lake,Adventure/Nature,Oct-Mar,0,1000-3000,1 Day,Medium,Friends,Delhi Airport
+North,HR,Kurukshetra,Brahma Sarovar,Spiritual,Year-round,0,1000-3000,1 Day,Medium,Family,Chandigarh Airport
+North,HR,Kurukshetra,Jyotisar,Spiritual/History,Year-round,0,500-2000,1 Day,Low,Family,Chandigarh Airport
+North,HR,Kurukshetra,Sheikh Chilli's Tomb,History,Oct-Mar,25,100-500,1 Hour,Low,History Buffs,Chandigarh Airport
+North,HR,Morni,Morni Hills,Hill Station,Oct-Mar,0,1000-3000,1 Day,Medium,Friends,Chandigarh Airport
+North,HR,Panchkula,Pinjore Gardens,Garden,Year-round,20,500-1500,1 Day,Low,Family,Chandigarh Airport
+North,HR,Panchkula,Morni Fort,History/Trek,Oct-Mar,0,500-1500,1 Day,Medium,Adventure Seekers,Chandigarh Airport
+North,HR,Pinjore,Yadavindra Gardens,Nature,Year-round,20,100-500,1 Day,Low,Families,Chandigarh Airport
+North,HR,Sohna,Sohna Hot Springs,Nature,Nov-Feb,0,500-1500,1 Day,Low,Families,Delhi Airport
+North,JK,Gulmarg,Gondola Phase 1,Snow/Ski,Dec-Mar,740,15000-20000,2 Days,High,"Solo, Friends",Srinagar Airport
+North,JK,Jammu,Vaishno Devi,Spiritual,Year-round,0,5000-15000,2 Days,High,Family,Jammu Station
+North,JK,Jammu,Raghunath Temple,Spiritual,Year-round,0,500-1500,1 Day,Low,Family,Jammu Airport
+North,JK,Jammu,Bahu Fort,History,Year-round,10,500-1500,1 Day,Medium,All,Jammu Airport
+North,JK,Katra,Vaishno Devi Temple,Spiritual,Year-round,0,2000-7000,2 Days,High,Pilgrims,Jammu Airport
+North,JK,Leh,Shanti Stupa,Spiritual,Jun-Sep,0,20000-30000,1 Day,Low,"Family, Senior Citizens",Leh Airport
+North,JK,Leh,Pangong Lake,Snow/Lake,Jun-Sep,0,15000-25000,2 Days,Medium,"Solo, Friends",Leh Airport
+North,JK,Leh,Nubra Valley,Snow/Desert,Jun-Sep,0,12000-20000,2 Days,Medium,"Solo, Friends",Leh Airport
+North,JK,Leh,Pangong Tso,Nature/Lake,Jun-Sep,0,5000-12000,2 Days,Medium,Nature Lovers,Leh Airport
+North,JK,Leh,Hemis Monastery,Spiritual,Jun-Sep,100,500-1500,1 Day,Low,Spiritual Seekers,Leh Airport
+North,JK,Leh,Hall of Fame Leh,History/Patriotism,Year-round,100,100-500,2 Hours,Low,All,Leh Airport
+North,JK,Leh,Magnetic Hill,Nature,Jun-Sep,0,500-1500,1 Hour,Low,Adventure Seekers,Leh Airport
+North,JK,Pahalgam,Aru Valley,Nature,May-Sep,100,10000-15000,2 Days,Medium,"Couples, Friends",Srinagar Airport
+North,JK,Pahalgam,Betaab Valley,Nature,Apr-Oct,100,500-1500,1 Day,Low,All,Srinagar Airport
+North,JK,Pahalgam,Chandanwari,Nature/Spiritual,Apr-Oct,0,500-1500,1 Day,Medium,Adventure Seekers,Srinagar Airport
+North,JK,Patnitop,Nathatop,Snow,Dec-Feb,0,5000-10000,1 Day,Medium,Family,Jammu Station
+North,JK,Sonamarg,Thajiwas Glacier,Glacier,Apr-Jun,0,12000-18000,1 Day,High,"Solo, Friends",Srinagar Airport
+North,JK,Sonamarg,Zoji La Pass,Nature/View,Jun-Oct,0,1000-3000,1 Day,High,Adventure Lovers,Srinagar Airport
+North,JK,Srinagar,Dal Lake,Lake,Apr-Oct,0,8000-12000,2 Days,Medium,"Couples, Family",Srinagar Airport
+North,JK,Srinagar,Shalimar Bagh,Garden,Apr-Oct,25,1000-3000,1 Day,Low,"Family, Kids",Srinagar Airport
+North,JK,Srinagar,Nishat Bagh,Garden,Apr-Oct,25,500-1500,1 Day,Low,Family,Srinagar Airport
+North,JK,Srinagar,Chashme Shahi,Garden,Apr-Oct,25,500-1500,1 Day,Low,Family,Srinagar Airport
+North,JK,Srinagar,Hazratbal Dargah,Spiritual,Year-round,0,500-1500,1 Day,Low,All,Srinagar Airport
+North,JK,Srinagar,Pari Mahal,History/View,Apr-Oct,25,500-1500,1 Day,Medium,All,Srinagar Airport
+North,JK,Srinagar,Tulip Garden,Nature/Garden,Apr,60,200-500,2 Hours,Low,All,Srinagar Airport
+North,JK,Srinagar,Hazratbal Shrine,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Srinagar Airport
+North,JK,Srinagar,Dachigam National Park,Wildlife,Apr-Oct,25,500-2000,1 Day,Medium,Nature Lovers,Srinagar Airport
+North,JK,Srinagar,Kheer Bhawani Temple,Spiritual,Year-round,0,200-1000,1 Day,Low,Pilgrims,Srinagar Airport
+North,JK,Srinagar,Jamia Masjid Srinagar,Spiritual/History,Year-round,0,100-500,1 Hour,Low,Pilgrims,Srinagar Airport
+North,PB,Amritsar,Golden Temple,Spiritual,Year-round,0,4000-8000,1 Day,Low,"Family, Senior Citizens",Amritsar Airport
+North,PB,Amritsar,Wagah Border,Patriotism,Year-round,0,2000-4000,1 Day,Low,"Family, Kids",Amritsar Airport
+North,PB,Amritsar,Jallianwala Bagh,History,Year-round,0,100-500,1 Hour,Low,All,Amritsar Airport
+North,PB,Amritsar,Partition Museum,History,Year-round,10,100-500,2 Hours,Low,History Lovers,Amritsar Airport
+North,PB,Amritsar,Gobindgarh Fort,History/Entertainment,Year-round,200,500-1500,1 Day,Medium,Families,Amritsar Airport
+North,PB,Anandpur Sahib,Virasat-e-Khalsa,Culture/History,Year-round,0,1000-3000,1 Day,Medium,All,Chandigarh Airport
+North,PB,Chandigarh,Rock Garden,Art/Park,Year-round,30,3000-6000,1 Day,Medium,"Family, Kids",Chandigarh Airport
+North,PB,Kapurthala,Jagatjit Palace,History,Year-round,0,1000-3000,1 Day,Low,All,Amritsar Airport
+North,PB,Ludhiana,Tiger Safari,Wildlife,Year-round,50,2000-5000,1 Day,Low,Family,Ludhiana Airport
+North,PB,Ludhiana,Maharaja Ranjit Singh War Museum,History,Year-round,20,100-500,2 Hours,Low,All,Ludhiana Airport
+North,PB,Ludhiana,Hardy's World,Entertainment,Year-round,800,1000-3000,1 Day,High,Families/Kids,Ludhiana Airport
+North,PB,Ludhiana,Nehru Rose Garden,Nature/Garden,Year-round,0,100-300,2 Hours,Low,All,Ludhiana Airport
+North,PB,Pathankot,Ranjit Sagar Dam,Nature,Oct-Mar,0,2000-5000,1 Day,Low,Family,Pathankot Station
+North,PB,Patiala,Qila Mubarak,History,Oct-Mar,0,2000-5000,1 Day,Low,Family,Chandigarh Airport
+North,PB,Patiala,Sheesh Mahal,History,Oct-Mar,0,1000-3000,1 Day,Low,All,Chandigarh Airport
+North,PB,Patiala,Qila Mubarak Patiala,History,Oct-Mar,0,200-1000,1 Day,Low,History Lovers,Chandigarh Airport
+North,PB,Patiala,Sheesh Mahal Patiala,History/Art,Oct-Mar,0,100-500,2 Hours,Low,Art Lovers,Chandigarh Airport
+North,PB,Patiala,Moti Bagh Palace,History,Oct-Mar,0,100-500,2 Hours,Low,History Lovers,Chandigarh Airport
+North,PB,Patiala,Baradari Gardens,Nature,Year-round,0,100-300,2 Hours,Low,All,Chandigarh Airport
+North,RJ,Ajmer,Dargah Sharif,Spiritual,Year-round,0,3000-6000,1 Day,Low,"Family, Senior Citizens",Kishangarh Airport
+North,RJ,Alwar,Bhangarh Fort,History/Mystery,Oct-Mar,25,3000-6000,1 Day,High,Friends,Jaipur Airport
+North,RJ,Alwar,Sariska Tiger Reserve,Wildlife,Oct-Jun,500,8000-15000,2 Days,Medium,Family,Jaipur Airport
+North,RJ,Alwar,Siliserh Lake,Nature,Oct-Mar,0,2000-5000,1 Day,Low,Couples,Jaipur Airport
+North,RJ,Barmer,Kiradu Temples,History,Oct-Mar,50,3000-6000,1 Day,Medium,Solo,Jodhpur Airport
+North,RJ,Bharatpur,Keoladeo National Park,Wildlife,Oct-Mar,75,3000-7000,1 Day,Medium,Family,Agra Airport
+North,RJ,Bikaner,Junagarh Fort,History,Oct-Mar,50,5000-9000,1 Day,Medium,"Family, All",Bikaner Station
+North,RJ,Bikaner,Karni Mata Temple,Spiritual,Year-round,0,2000-5000,1 Day,Medium,Family,Bikaner Station
+North,RJ,Bikaner,Lallgarh Palace,History,Oct-Mar,50,2000-5000,1 Day,Low,Family,Bikaner Station
+North,RJ,Bundi,Taragarh Fort,History,Oct-Mar,100,2000-5000,1 Day,High,Solo,Kota Station
+North,RJ,Bundi,Chitrashala,History/Art,Oct-Mar,50,500-1500,1 Day,Low,All,Kota Station
+North,RJ,Chittorgarh,Chittorgarh Fort,History,Oct-Mar,40,4000-8000,1 Day,High,"Family, Solo",Chittorgarh Station
+North,RJ,Deeg,Deeg Palace,History,Oct-Mar,25,1000-3000,1 Day,Low,Family,Agra Airport
+North,RJ,Dholpur,Machkund,Spiritual,Year-round,0,1000-3000,1 Day,Low,Family,Agra Airport
+North,RJ,Jaipur,Amer Fort,History,Oct-Mar,100,7000-12000,1 Day,High,"Family, Friends",Jaipur Airport
+North,RJ,Jaipur,Hawa Mahal,History,Oct-Mar,50,1000-3000,1 Day,Low,All,Jaipur Airport
+North,RJ,Jaipur,Jantar Mantar,Science,Year-round,50,1000-3000,1 Day,Low,All,Jaipur Airport
+North,RJ,Jaipur,Nahargarh Fort,History,Oct-Mar,50,2000-5000,1 Day,Medium,Friends,Jaipur Airport
+North,RJ,Jaipur,Jaigarh Fort,History,Oct-Mar,150,2000-4000,1 Day,High,All,Jaipur Airport
+North,RJ,Jaipur,Albert Hall Museum,History,Year-round,40,500-1500,1 Day,Low,All,Jaipur Airport
+North,RJ,Jaipur,Birla Mandir,Spiritual,Year-round,0,500-1500,1 Day,Low,Family,Jaipur Airport
+North,RJ,Jaipur,Birla Mandir Jaipur,Spiritual,Year-round,0,100-500,1 Hour,Low,Families,Jaipur Airport
+North,RJ,Jaisalmer,Sam Sand Dunes,Desert,Nov-Feb,0,12000-20000,2 Days,Medium,"Friends, Couples",Jaisalmer Station
+North,RJ,Jaisalmer,Jaisalmer Fort,History,Nov-Feb,50,3000-7000,1 Day,High,Solo,Jaisalmer Station
+North,RJ,Jaisalmer,Patwon Ki Haveli,History,Nov-Feb,100,1000-3000,1 Day,Medium,All,Jaisalmer Station
+North,RJ,Jaisalmer,Gadisar Lake,Nature,Evening,0,500-2000,1 Day,Low,All,Jaisalmer Station
+North,RJ,Jhalawar,Jhalara Patan,History,Oct-Mar,0,2000-5000,1 Day,Low,All,Kota Station
+North,RJ,Jodhpur,Mehrangarh Fort,History,Oct-Mar,100,8000-14000,1 Day,Medium,"Family, Solo",Jodhpur Airport
+North,RJ,Jodhpur,Umaid Bhawan Palace,History,Year-round,30,5000-10000,1 Day,Low,Family,Jodhpur Airport
+North,RJ,Jodhpur,Jaswant Thada,History,Oct-Mar,30,500-1500,1 Day,Low,All,Jodhpur Airport
+North,RJ,Karauli,City Palace,History,Oct-Mar,50,3000-7000,1 Day,Medium,Solo,Jaipur Airport
+North,RJ,Kota,Chambal Garden,Garden,Year-round,20,500-1500,1 Day,Low,All,Kota Station
+North,RJ,Kota,Seven Wonders Park,Architecture,Evening,20,200-1000,1 Day,Low,Kids,Kota Station
+North,RJ,Kota,Garadia Mahadev,Nature/View,Oct-Mar,0,1000-3000,1 Day,Medium,Solo,Kota Station
+North,RJ,Kumbhalgarh,Kumbhalgarh Fort,History,Oct-Mar,40,4000-8000,1 Day,High,All,Udaipur Airport
+North,RJ,Mount Abu,Dilwara Temples,Spiritual,Year-round,0,6000-11000,1 Day,Low,"Family, Senior Citizens",Abu Road Station
+North,RJ,Mount Abu,Nakki Lake,Nature,Year-round,0,4000-8000,1 Day,Medium,All,Abu Road Station
+North,RJ,Nagaur,Nagaur Fort,History,Oct-Mar,50,2000-5000,1 Day,Medium,All,Jodhpur Airport
+North,RJ,Osian,Osian Temples,History/Spiritual,Oct-Mar,0,2000-5000,1 Day,Medium,All,Jodhpur Airport
+North,RJ,Pushkar,Brahma Temple,Spiritual,Nov (Fair),0,5000-10000,2 Days,Medium,"Solo, Family",Ajmer Station
+North,RJ,Pushkar,Pushkar Lake,Spiritual,Year-round,0,100-500,1 Day,Low,Pilgrims,Kishangarh Airport
+North,RJ,Ranakpur,Jain Temple,Spiritual,Year-round,0,3000-6000,1 Day,Low,Family,Udaipur Airport
+North,RJ,Sawai Madhopur,Ranthambore Fort,History,Oct-Jun,0,2000-5000,1 Day,High,Friends,Sawai Madhopur Station
+North,RJ,Shekhawati,Mandawa Haveli,History/Art,Oct-Mar,0,4000-8000,2 Days,Medium,Solo,Jaipur Airport
+North,RJ,Udaipur,City Palace,History,Oct-Mar,300,10000-18000,1 Day,Medium,"Couples, Family",Udaipur Airport
+North,RJ,Udaipur,Lake Pichola,Nature,Evening,0,2000-5000,1 Day,Low,Couples,Udaipur Airport
+North,RJ,Udaipur,Jagdish Temple,Spiritual,Year-round,0,500-1500,1 Day,Medium,Family,Udaipur Airport
+North,RJ,Udaipur,Saheliyon Ki Bari,Garden,Year-round,30,500-1500,1 Day,Low,Family,Udaipur Airport
+North,RJ,Udaipur,Saheliyon-ki-Bari,Nature/History,Year-round,10,100-500,1 Hour,Low,Families,Udaipur Airport
+North,RJ,Udaipur,Bagore ki Haveli,Culture/History,Year-round,60,200-1000,2 Hours,Low,Culture Lovers,Udaipur Airport
+North,UK,Almora,Zero Point,Nature,Oct-May,0,5000-10000,1 Day,High,Solo,Kathgodam Station
+North,UK,Auli,Auli Ski Resort,Snow/Ski,Dec-Feb,0,15000-25000,3 Days,High,"Solo, Friends",Dehradun Airport
+North,UK,Auli,Auli Artificial Lake,Lake/Nature,Dec-Mar,0,500-2000,2 Hours,Medium,Families,Dehradun Airport
+North,UK,Badrinath,Badrinath Temple,Spiritual,May-Oct,0,5000-10000,2 Days,Medium,Pilgrims,Dehradun Airport
+North,UK,Binsar,Wildlife Sanctuary,Wildlife,Oct-Mar,150,5000-10000,2 Days,Medium,Solo,Kathgodam Station
+North,UK,Chamoli,Valley of Flowers,Nature,Jul-Sep,150,5000-10000,3 Days,High,Adventure Lovers,Dehradun Airport
+North,UK,Chamoli,Hemkund Sahib,Spiritual,Jul-Sep,0,5000-10000,3 Days,High,Pilgrims,Dehradun Airport
+North,UK,Chopta,Tungnath,Trek,Apr-Nov,0,6000-10000,2 Days,High,"Solo, Friends",Dehradun Airport
+North,UK,Dehradun,Robbers Cave,Nature,Year-round,35,1000-3000,1 Day,Medium,Friends,Dehradun Airport
+North,UK,Dehradun,Robber's Cave,Nature/Adventure,Apr-Oct,35,500-1500,1 Day,Medium,Friends/Families,Dehradun Airport
+North,UK,Dehradun,Sahastradhara,Nature,Apr-Oct,0,200-1000,1 Day,Low,Families,Dehradun Airport
+North,UK,Dehradun,Mindrolling Monastery,Spiritual,Year-round,0,100-500,2 Hours,Low,All,Dehradun Airport
+North,UK,Dehradun,Forest Research Institute,History/Education,Year-round,15,100-500,2 Hours,Low,Architecture Lovers,Dehradun Airport
+North,UK,Gangotri,Gangotri Temple,Spiritual,May-Oct,0,5000-10000,2 Days,Medium,Pilgrims,Dehradun Airport
+North,UK,Haridwar,Harkipauri,Spiritual,Year-round,0,3000-7000,1 Day,Medium,Family,Dehradun Airport
+North,UK,Haridwar,Har Ki Pauri,Spiritual,Year-round,0,500-1500,1 Day,Medium,Pilgrims,Dehradun Airport
+North,UK,Haridwar,Mansa Devi Temple,Spiritual,Year-round,0,100-500,1 Day,High,Pilgrims,Dehradun Airport
+North,UK,Haridwar,Chandi Devi Temple Haridwar,Spiritual,Year-round,0,100-500,1 Day,High,Pilgrims,Dehradun Airport
+North,UK,Jim Corbett,Garjiya Devi Temple,Spiritual,Year-round,0,100-500,1 Day,Medium,All,Pantnagar Airport
+North,UK,Joshimath,Valley of Flowers,Nature/Trek,Jul-Sep,15000-22000,4 Days,High,"Solo, Friends",Dehradun Airport,Dehradun Airport
+North,UK,Joshimath,Narsingh Temple,Spiritual,Year-round,0,1000-3000,1 Day,Low,Family,Dehradun Airport
+North,UK,Joshimath,Auli,Snow/Ski,Dec-Mar,0,5000-15000,2-3 Days,Medium,Snow Lovers,Dehradun Airport
+North,UK,Kausani,Anasakti Ashram,Spiritual/View,Oct-May,0,2000-5000,1 Day,Low,Solo,Kathgodam Station
+North,UK,Kedarnath,Kedarnath Temple,Spiritual,May-Oct,0,12000-20000,3 Days,High,"Family, Senior Citizens",Dehradun Airport
+North,UK,Lansdowne,Tip In Top,Nature/View,Year-round,0,3000-6000,1 Day,Low,Couples,Dehradun Airport
+North,UK,Lansdowne,Bhulla Tal,Lake,Year-round,20,500-1500,1 Day,Low,Kids,Dehradun Airport
+North,UK,Lansdowne,Tip-in-Top,View Point,Year-round,0,100-500,2 Hours,Low,Nature Lovers,Dehradun Airport
+North,UK,Lansdowne,Bhulla Tal Lake,Nature/Lake,Year-round,20,100-500,1 Day,Low,Families,Dehradun Airport
+North,UK,Mukteshwar,Chauli Ki Jali,Nature/Adventure,Year-round,0,3000-6000,1 Day,High,Friends,Kathgodam Station
+North,UK,Mussoorie,Kempty Falls,Waterfall,Apr-Jun,0,6000-10000,1 Day,Medium,"Family, Friends",Dehradun Airport
+North,UK,Mussoorie,Cloud's End,Nature/View,Sep-Jun,0,500-1500,1 Day,Medium,Couples,Dehradun Airport
+North,UK,Mussoorie,Lal Tibba,View Point,Oct-Mar,50,200-1000,2 Hours,Low,Nature Lovers,Dehradun Airport
+North,UK,Mussoorie,Company Garden,Nature/Garden,Year-round,20,100-500,2 Hours,Low,Families,Dehradun Airport
+North,UK,Nainital,Naini Lake,Lake,Mar-Jun,0,8000-13000,1 Day,Medium,"Couples, Family",Kathgodam Station
+North,UK,Nainital,Naina Devi Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Pantnagar Airport
+North,UK,Nainital,Snow View Point,View Point,Oct-May,100,200-1000,2 Hours,Medium,Families,Pantnagar Airport
+North,UK,Nainital,Jim Corbett National Park,Wildlife,Nov-Jun,1000,5000-15000,2 Days,Medium,Wildlife Lovers,Pantnagar Airport
+North,UK,Nainital,Eco Cave Gardens,Nature/Adventure,Year-round,60,200-1000,2 Hours,Medium,Kids/Families,Pantnagar Airport
+North,UK,Ramnagar,Jim Corbett National Park,Wildlife,Nov-Jun,15000-25000,3 Days,Medium,"Family, Friends",Pantnagar Airport,Pantnagar Airport
+North,UK,Ranikhet,Golf Course,Nature,Year-round,0,1000-3000,1 Day,Low,All,Kathgodam Station
+North,UK,Ranikhet,Chaubatia Orchards,Nature,Mar-Jun,0,100-500,2 Hours,Low,Nature Lovers,Pantnagar Airport
+North,UK,Rishikesh,Laxman Jhula,Spiritual,Oct-Mar,0,5000-10000,1 Day,Medium,All,Dehradun Airport
+North,UK,Rishikesh,Ram Jhula,Spiritual,Year-round,0,2000-5000,1 Day,Medium,All,Dehradun Airport
+North,UK,Rishikesh,Neer Garh Waterfall,Nature,Oct-May,30,500-1500,1 Day,High,Adventure Lovers,Dehradun Airport
+North,UK,Rishikesh,Vashishta Gufa,Spiritual,Year-round,0,500-1500,1 Day,Low,Peace Seekers,Dehradun Airport
+North,UK,Rishikesh,The Beatles Ashram,History/Culture,Year-round,150,500-1500,1 Day,Low,Culture Seekers,Dehradun Airport
+North,UK,Rudraprayag,Tungnath Temple,Spiritual/Trek,Apr-Nov,0,2000-5000,1-2 Days,High,Adventure Lovers,Dehradun Airport
+North,UK,Yamunotri,Yamunotri Temple,Spiritual,May-Oct,0,5000-10000,2 Days,High,Pilgrims,Dehradun Airport
+North,UP,Agra,Taj Mahal,History,Oct-Mar,50,5000-10000,1 Day,Medium,"Family, Couples",Agra Airport
+North,UP,Agra,Fatehpur Sikri,History,Oct-Mar,35,3000-6000,1 Day,Medium,"Family, All",Agra Airport
+North,UP,Agra,Agra Fort,History,Oct-Mar,50,500-1500,1 Day,Medium,History Lovers,Agra Airport
+North,UP,Agra,Itmad-ud-Daula,History,Oct-Mar,30,200-1000,2 Hours,Low,History Lovers,Agra Airport
+North,UP,Agra,Mehtab Bagh,Nature/View,Oct-Mar,25,100-500,2 Hours,Low,Photographers,Agra Airport
+North,UP,Agra,Fatehpur Sikri Fort,History,Oct-Mar,50,500-1500,1 Day,Medium,History Lovers,Agra Airport
+North,UP,Agra,Chini Ka Rauza,History,Year-round,0,100-300,1 Hour,Low,History Lovers,Agra Airport
+North,UP,Ayodhya,Ram Janmabhoomi,Spiritual,Year-round,0,5000-10000,2 Days,Medium,"Family, Senior Citizens",Ayodhya Airport
+North,UP,Ayodhya,Ram Janmabhoomi Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Ayodhya Airport
+North,UP,Ayodhya,Hanuman Garhi,Spiritual,Year-round,0,100-500,1 Day,High,Pilgrims,Ayodhya Airport
+North,UP,Fatehpur Sikri,Buland Darwaza,History,Oct-Mar,0,500-1500,1 Hour,Low,History Lovers,Agra Airport
+North,UP,Fatehpur Sikri,Salim Chishti Tomb,Spiritual/History,Oct-Mar,0,200-500,1 Hour,Low,All,Agra Airport
+North,UP,Jhansi,Jhansi Fort,History,Year-round,25,1000-3000,1 Day,High,Solo,Gwalior Airport
+North,UP,Kanpur,JK Temple,Spiritual,Year-round,0,100-500,1 Day,Low,All,Kanpur Airport
+North,UP,Kushinagar,Mahaparinirvana Stupa,Spiritual,Oct-Mar,0,1000-3000,1 Day,Low,Family,Gorakhpur Airport
+North,UP,Lucknow,Bara Imambara,History,Oct-Mar,50,5000-10000,1 Day,Medium,"Family, All",Lucknow Airport
+North,UP,Lucknow,Chota Imambara,History,Oct-Mar,50,500-1500,1 Day,Low,All,Lucknow Airport
+North,UP,Lucknow,British Residency,History,Year-round,25,500-1500,1 Day,Medium,All,Lucknow Airport
+North,UP,Lucknow,Rumi Darwaza,History,Year-round,0,100-300,0.5 Hours,Low,All,Lucknow Airport
+North,UP,Lucknow,The Residency,History,Year-round,25,100-500,1 Day,Low,History Buffs,Lucknow Airport
+North,UP,Lucknow,Ambedkar Memorial Park,Park,Year-round,20,100-500,1 Day,Low,Everyone,Lucknow Airport
+North,UP,Lucknow,British Residency Lucknow,History,Year-round,25,100-500,2 Hours,Low,History Buffs,Lucknow Airport
+North,UP,Lucknow,Janeshwar Mishra Park,Park,Year-round,10,100-500,2 Hours,Low,All,Lucknow Airport
+North,UP,Mathura,Banke Bihari,Spiritual,Year-round,0,4000-8000,1 Day,Medium,"Family, Senior Citizens",Mathura Station
+North,UP,Mathura,Krishna Janmabhoomi,Spiritual,Year-round,0,500-1500,1 Day,Medium,Pilgrims,Agra Airport
+North,UP,Mathura,Dwarkadhish Temple Mathura,Spiritual,Year-round,0,200-1000,1 Day,Medium,Pilgrims,Agra Airport
+North,UP,Mathura,Vishram Ghat,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Agra Airport
+North,UP,Prayagraj,Sangam,Spiritual,Jan-Feb,0,5000-10000,1 Day,Medium,"Family, Senior Citizens",Prayagraj Airport
+North,UP,Prayagraj,Triveni Sangam,Spiritual,Oct-Mar,0,500-2000,1 Day,Medium,Pilgrims,Prayagraj Airport
+North,UP,Prayagraj,Allahabad Fort,History,Year-round,0,200-1000,1 Day,Low,History Lovers,Prayagraj Airport
+North,UP,Prayagraj,Anand Bhavan,History,Year-round,70,200-1000,2 Hours,Low,History Lovers,Prayagraj Airport
+North,UP,Sarnath,Dhamekh Stupa,Spiritual,Oct-Mar,25,2000-5000,1 Day,Low,"Family, Senior Citizens",Varanasi Airport
+North,UP,Sravasti,Jetavana Monastery,Spiritual/History,Oct-Mar,25,500-1500,1 Day,Low,Pilgrims,Lucknow Airport
+North,UP,Varanasi,Kashi Vishwanath,Spiritual,Year-round,0,6000-12000,2 Days,Medium,"Family, Senior Citizens",Varanasi Airport
+North,UP,Varanasi,Assi Ghat,Spiritual,Evening,0,0-500,1 Day,Medium,All,Varanasi Airport
+North,UP,Varanasi,Sarnath,Spiritual/History,Oct-Mar,25,500-1500,1 Day,Low,Pilgrims/History Lovers,Varanasi Airport
+North,UP,Varanasi,Kashi Vishwanath Temple,Spiritual,Year-round,0,500-3000,1 Day,High,Pilgrims,Varanasi Airport
+North,UP,Varanasi,Manikarnika Ghat,Spiritual/History,Year-round,0,100-500,1 Hour,Medium,Spiritual Seekers,Varanasi Airport
+North,UP,Varanasi,Dashashwamedh Ghat,Spiritual,Year-round,0,100-500,Evening,Medium,All,Varanasi Airport
+North,UP,Varanasi,Banaras Hindu University,Education/Spiritual,Year-round,0,100-500,1 Day,Low,Students/All,Varanasi Airport
+North,UP,Varanasi,Ramnagar Fort,History,Year-round,50,200-1000,2 Hours,Low,History Lovers,Varanasi Airport
+North,UP,Varanasi,New Vishwanath Temple (BHU),Spiritual,Year-round,0,100-500,1 Hour,Low,All,Varanasi Airport
+North,UP,Vrindavan,Banke Bihari Temple,Spiritual,Year-round,0,500-1500,1 Day,High,Pilgrims,Agra Airport
+North,UP,Vrindavan,Prem Mandir,Spiritual,Year-round,0,100-500,2 Hours,Low,All,Agra Airport
+North,UP,Vrindavan,Nidhivan,Spiritual/History,Year-round,0,100-500,1 Hour,Low,All,Agra Airport
+North,UP,Vrindavan,Radha Raman Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Agra Airport
+North,WB,Darjeeling,Japanese Temple,Spiritual,Year-round,0,100-300,1 Hour,Low,All,Bagdogra Airport
+South,AP,Ahobilam,Narasimha Temple,Spiritual/Trek,Year-round,0,3000-6000,2 Days,High,Solo,Tirupati Airport
+South,AP,Anantapur,Lepakshi Nandi,History,Oct-Mar,0,200-1000,1 Day,Low,All,Bangalore Airport
+South,AP,Anantapur,Lepakshi Temple,History/Spiritual,Oct-Mar,0,500-1500,1 Day,Low,History Buffs,Bangalore Airport
+South,AP,Chittoor,Kanipakam Temple,Spiritual,Year-round,0,1000-3000,1 Day,Low,Family,Tirupati Airport
+South,AP,Gandikota,Grand Canyon of India,Nature,Sep-Feb,0,4000-8000,2 Days,High,Solo,Tirupati Airport
+South,AP,Kadapa,Gandikota Fort,History,Sep-Feb,0,2000-5000,1 Day,Medium,Solo,Tirupati Airport
+South,AP,Kadapa,Gandikota Canyon,Nature/History,Oct-Feb,0,2000-5000,1-2 Days,Medium,Adventure Lovers,Kadapa Airport
+South,AP,Kurnool,Belum Caves,Nature,Oct-Mar,65,4000-8000,1 Day,High,Friends,Tirupati Airport
+South,AP,Kurnool,Konda Reddy Fort,History,Oct-Mar,0,200-1000,1 Day,Medium,History Lovers,Kurnool Airport
+South,AP,Lepakshi,Veerabhadra Temple,History/Spiritual,Oct-Mar,0,2000-5000,1 Day,Medium,All,Bangalore Airport
+South,AP,Madanapalle,Horsley Hills,Hill Station,Dec-Mar,3000-7000,2 Days,Low,Couples,Tirupati Airport,Tirupati Airport
+South,AP,Mantralayam,Raghavendra Swamy,Spiritual,Year-round,0,2000-5000,2 Days,Low,Family,Hyderabad Airport
+South,AP,Nellore,Pulicat Lake,Nature,Oct-Mar,0,2000-5000,1 Day,Low,Family,Chennai Airport
+South,AP,Nellore,Nellapattu Sanctuary,Wildlife,Oct-Mar,50,1000-3000,1 Day,Low,All,Chennai Airport
+South,AP,Nellore,Nelapattu Bird Sanctuary,Wildlife,Oct-Mar,50,1000-3000,1 Day,Low,All,Chennai Airport
+South,AP,Tirupati,Venkateswara,Spiritual,Year-round,0,5000-15000,2 Days,High,Family,Tirupati Airport
+South,AP,Tirupati,Tirumala Temple,Spiritual,Year-round,0,1000-5000,1 Day,High,Pilgrims,Tirupati Airport
+South,AP,Tirupati,Kapila Theertham,Spiritual,Year-round,0,100-500,1 Day,Medium,Pilgrims,Tirupati Airport
+South,AP,Tirupati,Chandragiri Fort,History,Year-round,20,200-1000,1 Day,Medium,History Lovers,Tirupati Airport
+South,AP,Tirupati,Govindaraja Swamy Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Tirupati Airport
+South,AP,Vijayawada,Kanakadurgamma,Spiritual,Year-round,0,2000-5000,1 Day,Medium,Family,Vijayawada Airport
+South,AP,Vijayawada,Undavalli Caves,History,Oct-Mar,25,500-1500,1 Day,Medium,All,Vijayawada Airport
+South,AP,Vijayawada,Bhavani Island,Nature,Year-round,50,1000-3000,1 Day,Medium,Family,Vijayawada Airport
+South,AP,Vijayawada,Prakasam Barrage,Engineering,Evening,0,100-500,1 Day,Low,All,Vijayawada Airport
+South,AP,Vijayawada,Kanakadurga Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Vijayawada Airport
+South,AP,Visakhapatnam,RK Beach,Beach,Evening,0,2000-5000,1 Day,Low,All,Vizag Airport
+South,AP,Visakhapatnam,Araku Valley,Nature,Sep-Mar,0,8000-14000,2 Days,Medium,Family,Vizag Airport
+South,AP,Visakhapatnam,Borra Caves,Nature/History,Year-round,60,2000-4000,1 Day,High,Friends,Vizag Airport
+South,AP,Visakhapatnam,Kailasagiri,Nature/View,Year-round,5,100-500,1 Day,Low,Families,Visakhapatnam Airport
+South,AP,Visakhapatnam,INS Kursura Museum,History,Year-round,40,100-500,1 Hour,Low,All,Visakhapatnam Airport
+South,AP,Visakhapatnam,Rishikonda Beach,Beach,Oct-Mar,0,500-1500,1 Day,Medium,All,Visakhapatnam Airport
+South,AP,Visakhapatnam,Submarine Museum,History,Year-round,40,100-500,1 Hour,Low,All,Visakhapatnam Airport
+South,AP,Visakhapatnam,Dolphin's Nose Vizag,View Point,Oct-Mar,0,100-500,1 Hour,Low,Nature Lovers,Visakhapatnam Airport
+South,AP,Visakhapatnam,Yarada Beach,Beach,Oct-Mar,0,500-1500,1 Day,Low,Nature Lovers,Visakhapatnam Airport
+South,KA,Badami,Cave Temples,History,Oct-Mar,25,2000-5000,1 Day,High,Solo,Belgaum Airport
+South,KA,Badami,Badami Cave Temples,History/Spiritual,Oct-Mar,25,500-1500,1 Day,Medium,History Buffs,Hubli Airport
+South,KA,Bagalkot,Pattadakal,History,Oct-Mar,40,500-1500,1 Day,Low,History Buffs,Hubli Airport
+South,KA,Bagalkot,Aihole,History,Oct-Mar,25,500-1500,1 Day,Medium,History Buffs,Hubli Airport
+South,KA,Bangalore,Lalbagh Garden,Nature,Jan-Aug,25,1000-2000,1 Day,Medium,All,Bangalore Airport
+South,KA,Bangalore,Cubbon Park,Nature,Year-round,0,500-1500,1 Day,Low,All,Bangalore Airport
+South,KA,Bangalore,ISKCON Temple,Spiritual,Year-round,0,500-1500,1 Day,Medium,"Family, Senior Citizens",Bangalore Airport
+South,KA,Bangalore,Bannerghatta Zoo,Wildlife,Oct-Mar,250,2000-5000,1 Day,Medium,Family,Bangalore Airport
+South,KA,Bangalore,Lalbagh Botanical Garden,Nature/Garden,Year-round,20,100-500,2 Hours,Low,Nature Lovers,Bangalore Airport
+South,KA,Bangalore,Bannerghatta Biological Park,Wildlife,Year-round,260,1000-3000,1 Day,Medium,Families/Kids,Bangalore Airport
+South,KA,Bangalore,Visvesvaraya Industrial and Technological Museum,Science/Museum,Year-round,40,100-500,3 Hours,Low,Students/Kids,Bangalore Airport
+South,KA,Bangalore,ISKCON Temple Bangalore,Spiritual,Year-round,0,100-500,2 Hours,Low,All,Bangalore Airport
+South,KA,Bangalore,Bull Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Bangalore Airport
+South,KA,Bangalore,Tipu Sultan's Summer Palace,History,Year-round,20,100-500,1 Hour,Low,History Lovers,Bangalore Airport
+South,KA,Bangalore,Bangalore Palace,History,Year-round,230,500-1500,2 Hours,Low,Architecture Lovers,Bangalore Airport
+South,KA,Bangalore,Government Museum Bangalore,History,Year-round,20,100-500,2 Hours,Low,History Buffs,Bangalore Airport
+South,KA,Belgaum,Gokak Falls,Nature,Jul-Oct,0,1000-3000,1 Day,Medium,All,Belgaum Airport
+South,KA,Belur,Chennakesava Temple,History,Year-round,0,2000-4000,1 Day,Low,Family,Mangalore Airport
+South,KA,Bijapur,Gol Gumbaz,History,Oct-Mar,25,2000-4000,1 Day,Medium,All,Belgaum Airport
+South,KA,Chamarajanagar,Bandipur National Park,Wildlife,Oct-May,300,5000-10000,2 Days,Medium,Wildlife Lovers,Mysore Airport
+South,KA,Chikmagalur,Mullayanagiri,Trek,Sep-Mar,0,7000-13000,2 Days,High,"Solo, Friends",Mangalore Airport
+South,KA,Chikmagalur,Baba Budangiri,Nature/Spiritual,Sep-Mar,0,3000-6000,1 Day,High,Friends,Mangalore Airport
+South,KA,Chikmagalur,Hebbe Falls,Waterfall,Sep-Jan,0,500-1500,1 Day,High,Nature Lovers,Mangalore Airport
+South,KA,Coorg,Abbey Falls,Waterfall,Jul-Oct,0,4000-8000,1 Day,Medium,"Couples, Friends",Mysore Airport
+South,KA,Coorg,Raja Seat,Nature/View,Evening,5,500-1500,1 Day,Low,Family,Mysore Airport
+South,KA,Coorg,Talakaveri,Spiritual/Nature,Oct-Mar,0,1000-3000,1 Day,Medium,Family,Mysore Airport
+South,KA,Coorg,Dubare Elephant Camp,Wildlife,Sep-Mar,100,2000-5000,1 Day,Medium,Kids,Mysore Airport
+South,KA,Coorg,Golden Temple (Namdroling),Spiritual,Year-round,0,500-1500,1 Day,Low,Family,Mysore Airport
+South,KA,Coorg,Iruppu Falls,Nature/Waterfall,Aug-Dec,50,500-1500,1 Day,Medium,Nature Lovers,Mangalore Airport
+South,KA,Coorg,Namdroling Monastery,Spiritual,Year-round,0,100-500,2 Hours,Low,All,Mangalore Airport
+South,KA,Dandeli,Kali River Rafting,Adventure,Oct-May,500,5000-10000,2 Days,High,Friends,Hubli Airport
+South,KA,Dandeli,Kavala Caves,Nature/History,Oct-May,0,2000-5000,1 Day,High,Solo,Hubli Airport
+South,KA,Gokarna,Om Beach,Beach,Nov-Feb,0,6000-12000,2 Days,Medium,"Solo, Friends",Hubli Airport
+South,KA,Gokarna,Kudle Beach,Beach,Nov-Feb,0,3000-7000,2 Days,Medium,Solo,Hubli Airport
+South,KA,Gokarna,Half Moon Beach,Beach,Nov-Feb,0,2000-5000,1 Day,High,Solo,Hubli Airport
+South,KA,Gokarna,Paradise Beach,Beach,Nov-Feb,0,2000-5000,1 Day,High,Friends,Hubli Airport
+South,KA,Gokarna,Mahabaleshwar Temple Gokarna,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Goa Airport
+South,KA,Gokarna,Paradise Beach Gokarna,Beach,Oct-Mar,0,500-1500,1 Day,Medium,Backpackers,Goa Airport
+South,KA,Halebidu,Hoysaleswara Temple,History,Year-round,0,2000-4000,1 Day,Low,Family,Mangalore Airport
+South,KA,Hampi,Virupaksha Temple,Spiritual,Oct-Mar,0,5000-10000,2 Days,Medium,"Family, Senior Citizens",Hospet Station
+South,KA,Hampi,Vittala Temple,History,Oct-Mar,40,2000-5000,1 Day,High,"Solo, History Buffs",Hospet Station
+South,KA,Hampi,Anjanadri Hill,Spiritual/Trek,Year-round,0,1000-3000,1 Day,High,Solo,Hospet Station
+South,KA,Hampi,Lotus Mahal,History,Oct-Mar,40,500-1500,1 Day,Low,All,Hospet Station
+South,KA,Hampi,Elephant Stables,History,Oct-Mar,40,100-500,1 Hour,Low,History Buffs,Hubli Airport
+South,KA,Hampi,Matanga Hill,Nature/View,Oct-Mar,0,100-500,1 Day,High,Nature Lovers,Hubli Airport
+South,KA,Hampi,Hampi Bazaar,History/Shopping,Oct-Mar,0,100-500,1 Day,Medium,Culture Seekers,Hubli Airport
+South,KA,Hassan,Sravanabelagola,Spiritual/History,Oct-Mar,0,500-1500,1 Day,High,Pilgrims,Bangalore Airport
+South,KA,Hassan,Halebidu Temple,History,Oct-Mar,25,500-1500,1 Day,Low,History Buffs,Mangalore Airport
+South,KA,Hassan,Belur Chennakeshava,History,Oct-Mar,25,500-1500,1 Day,Low,History Buffs,Mangalore Airport
+South,KA,Hospet,Tungabhadra Dam,Nature/Engineering,Aug-Dec,0,200-1000,1 Day,Low,Families,Hubli Airport
+South,KA,Hubli,Unkal Lake,Nature/Lake,Year-round,0,100-500,1 Day,Low,All,Hubli Airport
+South,KA,Jog Falls,Waterfall,Nature,Jul-Oct,0,5000-10000,1 Day,Medium,Friends,Hubli Airport
+South,KA,Kabini,Wildlife Safari,Wildlife,Oct-May,3000,15000-25000,2 Days,Medium,Family,Mysore Airport
+South,KA,Kodagu,Nagarhole National Park,Wildlife,Oct-May,500,5000-12000,2 Days,Medium,Wildlife Lovers,Mysore Airport
+South,KA,Madikeri,Raja's Seat,View Point,Oct-Mar,5,100-300,1 Hour,Low,Couples,Mangalore Airport
+South,KA,Mandya,Srirangapatna,History,Oct-Mar,20,500-2000,1 Day,Medium,History Buffs,Mysore Airport
+South,KA,Mangalore,Panambur Beach,Beach,Oct-Mar,0,2000-5000,1 Day,Low,All,Mangalore Airport
+South,KA,Mangalore,Kudroli Temple,Spiritual,Year-round,0,500-1500,1 Day,Low,Family,Mangalore Airport
+South,KA,Mangalore,Sammilan Shetty’s Butterfly Park,Nature,Oct-Mar,50,500-1500,1 Day,Low,Kids,Mangalore Airport
+South,KA,Mangalore,Ullal Beach,Beach,Oct-Mar,0,200-1000,1 Day,Low,All,Mangalore Airport
+South,KA,Mangalore,Kudroli Gokarnath Temple,Spiritual,Year-round,0,100-300,1 Hour,Low,All,Mangalore Airport
+South,KA,Murudeshwar,Shiva Statue,Spiritual,Oct-Mar,0,3000-6000,1 Day,Medium,Family,Mangalore Airport
+South,KA,Murudeshwar,Murudeshwar Temple,Spiritual/Beach,Oct-Mar,0,1000-3000,1 Day,Medium,Pilgrims,Mangalore Airport
+South,KA,Murudeshwar,Murudeshwar Beach,Beach,Oct-Mar,0,500-2000,1 Day,Medium,All,Mangalore Airport
+South,KA,Mysore,Brindavan Gardens,Garden,Evening,20,1000-3000,1 Day,Medium,Family,Mysore Station
+South,KA,Mysore,Chamundi Hills,Spiritual,Year-round,0,1000-3000,1 Day,Medium,Family,Mysore Station
+South,KA,Mysore,St. Philomena's Church,Spiritual,Year-round,0,200-1000,1 Day,Low,All,Mysore Station
+South,KA,Mysore,Karanji Lake,Nature,Year-round,10,200-1000,1 Day,Medium,Kids,Mysore Station
+South,KA,Mysore,Kabini River,Wildlife/Nature,Oct-May,1000,8000-20000,2 Days,Medium,Wildlife Lovers,Mysore Airport
+South,KA,Mysore,Mysore Palace,History,Oct-Mar,70,200-1000,3 Hours,Low,Everyone,Mysore Airport
+South,KA,Mysore,Chamundi Hill,Spiritual,Year-round,0,100-500,1 Day,Medium,Families,Mysore Airport
+South,KA,Mysore,Mysore Zoo,Wildlife,Year-round,100,200-1000,3 Hours,Medium,Families/Kids,Mysore Airport
+South,KA,Mysore,KRS Dam,Engineering/Nature,Year-round,20,500-1500,1 Day,Low,Families,Mysore Airport
+South,KA,Mysore,Shivanasamudra Falls,Nature/Waterfall,Aug-Oct,0,500-1500,1 Day,Medium,Nature Lovers,Mysore Airport
+South,KA,Mysore,Railway Museum Mysore,History/Museum,Year-round,15,100-500,1 Hour,Low,All,Mysore Airport
+South,KA,Shimoga,Jog Falls,Nature,Jul-Oct,0,3000-7000,1 Day,Medium,Friends,Hubli Airport
+South,KA,Shimoga,Kodachadri,Trek,Oct-May,0,5000-10000,2 Days,High,Solo,Mangalore Airport
+South,KA,Sravanabelagola,Bahubali Statue,Spiritual,Year-round,0,1000-3000,1 Day,High,Family,Mysore Airport
+South,KA,Udupi,Malpe Beach,Beach,Oct-Mar,0,4000-9000,1 Day,Medium,Family,Mangalore Airport
+South,KA,Udupi,St. Mary's Island,Nature,Oct-May,300,2000-4000,1 Day,Medium,Friends,Mangalore Airport
+South,KA,Udupi,Krishna Temple,Spiritual,Year-round,0,500-1500,1 Day,Low,Family,Mangalore Airport
+South,KA,Udupi,Kapu Beach,Beach,Oct-Mar,0,200-1000,1 Day,Low,All,Mangalore Airport
+South,KA,Udupi,Krishna Mutt,Spiritual,Year-round,0,100-500,1 Day,Low,Pilgrims,Mangalore Airport
+South,KA,Udupi,Kaup Lighthouse,View Point,Oct-Mar,10,100-300,1 Hour,Medium,All,Mangalore Airport
+South,KL,Alleppey,Backwaters,Nature,Nov-Feb,0,12000-25000,2 Days,Low,Couples,Kochi Airport
+South,KL,Alleppey,Marari Beach,Beach,Nov-Feb,0,8000-15000,2 Days,Low,Couples,Kochi Airport
+South,KL,Bekal,Bekal Fort,History,Oct-Mar,25,3000-6000,1 Day,Medium,Couples,Mangalore Airport
+South,KL,Guruvayur,Guruvayur Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Kochi Airport
+South,KL,Idukki,Idukki Arch Dam,Engineering,Aug-Mar,25,2000-5000,1 Day,Medium,Family,Kochi Airport
+South,KL,Kochi,Fort Kochi,History,Oct-Mar,0,3000-7000,1 Day,Medium,All,Kochi Airport
+South,KL,Kochi,Cherai Beach,Beach,Oct-Mar,0,1000-3000,1 Day,Low,Family,Kochi Airport
+South,KL,Kochi,Marine Drive,Nature/View,Evening,0,200-1000,1 Day,Low,All,Kochi Airport
+South,KL,Kochi,Mattancherry Palace,History,Oct-Mar,5,100-500,1 Hour,Low,History Lovers,Kochi Airport
+South,KL,Kochi,Chinese Fishing Nets,Nature/History,Year-round,0,100-300,1 Hour,Low,Photographers,Kochi Airport
+South,KL,Kochi,Lulu Mall Kochi,Entertainment,Year-round,0,500-2000,1 Day,Low,Families/Shoppers,Kochi Airport
+South,KL,Kochi,Paradesi Synagogue,History/Spiritual,Year-round,5,100-500,1 Hour,Low,History Lovers,Kochi Airport
+South,KL,Kochi,Hill Palace Museum,History,Oct-Mar,30,200-1000,2 Hours,Low,History Lovers,Kochi Airport
+South,KL,Kochi,Wonderla Kochi,Entertainment,Year-round,1200,2000-5000,1 Day,High,Kids/Friends,Kochi Airport
+South,KL,Kochi,Mangalavanam Bird Sanctuary,Wildlife,Oct-Mar,0,100-500,1 Hour,Low,Nature Lovers,Kochi Airport
+South,KL,Kochi,Marine Drive Kochi,Nature/View,Evening,0,100-500,2 Hours,Low,All,Kochi Airport
+South,KL,Kottayam,Kumarakom Bird Sanctuary,Wildlife,Nov-Feb,50,4000-9000,1 Day,Medium,Family,Kochi Airport
+South,KL,Kottayam,Kumarakom Backwaters,Nature,Nov-Feb,0,5000-15000,2 Days,Low,Families/Couples,Kochi Airport
+South,KL,Kovalam,Lighthouse Beach,Beach,Nov-Mar,0,7000-14000,2 Days,Medium,All,Trivandrum Airport
+South,KL,Kozhikode,Kappad Beach,Beach,Oct-Mar,0,1000-3000,1 Day,Low,All,Calicut Airport
+South,KL,Kozhikode,Beypore Beach,Beach,Sep-Mar,0,200-1000,1 Day,Low,All,Calicut Airport
+South,KL,Munnar,Eravikulam Park,Wildlife,Sep-Mar,125,8000-15000,1 Day,High,Family,Kochi Airport
+South,KL,Munnar,Tea Museum,Culture,Year-round,75,1000-3000,1 Day,Low,All,Kochi Airport
+South,KL,Munnar,Mattupetty Dam,Nature,Sep-Mar,10,1000-3000,1 Day,Low,Family,Kochi Airport
+South,KL,Munnar,Anamudi Peak,Nature,Nov-May,0,2000-5000,1 Day,High,Solo,Kochi Airport
+South,KL,Munnar,Kundala Lake,Nature,Sep-Mar,0,500-2000,1 Day,Low,Couples,Kochi Airport
+South,KL,Munnar,Eravikulam National Park,Wildlife,Sep-Mar,125,500-2000,1 Day,Medium,Nature Lovers,Kochi Airport
+South,KL,Munnar,Echo Point Munnar,Nature,Year-round,0,100-500,1 Hour,Low,All,Kochi Airport
+South,KL,Palakkad,Malampuzha Garden,Nature,Sep-Mar,25,1000-3000,1 Day,Low,Family,Coimbatore Airport
+South,KL,Palakkad,Silent Valley National Park,Wildlife,Dec-Apr,200,2000-5000,1 Day,Medium,Nature Lovers,Coimbatore Airport
+South,KL,Thekkady,Periyar Lake,Wildlife,Oct-Mar,150,6000-12000,1 Day,Medium,Family,Madurai Airport
+South,KL,Thekkady,Elephant Junction,Wildlife,Year-round,500,2000-5000,1 Day,Medium,Kids,Madurai Airport
+South,KL,Thrissur,Athirappilly Falls,Waterfall,Jun-Nov,50,2000-5000,1 Day,Medium,Family,Kochi Airport
+South,KL,Thrissur,Athirappilly Waterfalls,Nature/Waterfall,Jun-Nov,50,500-1500,1 Day,Medium,Nature Lovers,Kochi Airport
+South,KL,Thrissur,Vadakkunnathan Temple,Spiritual,Year-round,0,200-1000,1 Day,Low,Pilgrims,Kochi Airport
+South,KL,Thrissur,Guruvayur Krishna Temple,Spiritual,Year-round,0,500-1500,1 Day,Medium,Pilgrims,Kochi Airport
+South,KL,Trivandrum,Padmanabhaswamy,Spiritual,Year-round,0,2000-5000,1 Day,Low,Family,Trivandrum Airport
+South,KL,Trivandrum,Padmanabhaswamy Temple,Spiritual,Year-round,0,500-2000,1 Day,Low,Pilgrims,Trivandrum Airport
+South,KL,Trivandrum,Kovalam Beach,Beach,Sep-Mar,0,1000-4000,1 Day,Medium,All,Trivandrum Airport
+South,KL,Trivandrum,Napier Museum,History,Year-round,20,100-500,2 Hours,Low,History Lovers,Trivandrum Airport
+South,KL,Trivandrum,Shangumugham Beach,Beach,Evening,0,100-500,2 Hours,Low,All,Trivandrum Airport
+South,KL,Trivandrum,Attukal Bhagavathy Temple,Spiritual,Year-round,0,200-1000,1 Day,Medium,Pilgrims,Trivandrum Airport
+South,KL,Vagamon,Pine Forests,Nature,Year-round,0,3000-7000,2 Days,Medium,Friends,Kochi Airport
+South,KL,Varkala,Varkala Cliff,Beach,Nov-Mar,0,7000-14000,2 Days,Medium,"Solo, Couples",Trivandrum Airport
+South,KL,Varkala,Varkala Beach,Beach,Nov-Mar,0,2000-6000,2 Days,Medium,Solo/Couples,Trivandrum Airport
+South,KL,Wayanad,Banasura Sagar,Nature,Sep-Mar,10,5000-10000,1 Day,Medium,Family,Calicut Airport
+South,KL,Wayanad,Edakkal Caves,History,Sep-Mar,20,3000-6000,1 Day,High,Friends,Calicut Airport
+South,KL,Wayanad,Soochipara Falls,Nature,Sep-Mar,50,1000-3000,1 Day,High,Friends,Calicut Airport
+South,KL,Wayanad,Pookode Lake,Nature,Sep-Mar,20,500-1500,1 Day,Low,Family,Calicut Airport
+South,KL,Wayanad,Chembra Peak,Trek,Sep-Mar,750,5000-8000,1 Day,High,Solo,Calicut Airport
+South,KL,Wayanad,Banasura Sagar Dam,Nature,Oct-May,10,500-1500,1 Day,Medium,All,Calicut Airport
+South,KL,Wayanad,Kuruva Island,Nature,Oct-May,80,500-1500,1 Day,Medium,Nature Lovers,Calicut Airport
+South,KL,Wayanad,Wayanad Wildlife Sanctuary,Wildlife,Oct-May,200,2000-5000,1 Day,Medium,Wildlife Lovers,Calicut Airport
+South,PY,Puducherry,Pondicherry Promenade,Beach,Oct-Mar,0,500-2000,1 Day,Low,All,Chennai Airport
+South,TL,Hyderabad,Charminar,History,Year-round,25,1000-3000,1 Day,Medium,All,Hyderabad Airport
+South,TL,Hyderabad,Golconda Fort,History,Oct-Mar,25,2000-5000,1 Day,High,Friends,Hyderabad Airport
+South,TL,Hyderabad,Ramoji Film City,Entertainment,Year-round,1150,5000-10000,1 Day,Medium,Family,Hyderabad Airport
+South,TL,Hyderabad,Hussain Sagar,Nature,Evening,0,1000-3000,1 Day,Low,All,Hyderabad Airport
+South,TL,Hyderabad,Birla Mandir,Spiritual,Year-round,0,200-1000,1 Day,Medium,Family,Hyderabad Airport
+South,TL,Hyderabad,Salar Jung Museum,History,Year-round,50,500-1500,1 Day,Low,All,Hyderabad Airport
+South,TL,Hyderabad,Lumbini Park,Nature/Entertainment,Evening,20,500-1500,1 Day,Low,Family,Hyderabad Airport
+South,TL,Hyderabad,Nehru Zoological Park,Wildlife,Year-round,50,1000-3000,1 Day,High,Kids,Hyderabad Airport
+South,TL,Hyderabad,Chowmahalla Palace,History,Year-round,80,1000-3000,1 Day,Low,All,Hyderabad Airport
+South,TL,Hyderabad,Ramakrishna Math,Spiritual,Year-round,0,100-500,1 Day,Low,All,Hyderabad Airport
+South,TL,Hyderabad,Paigah Tombs,History,Year-round,0,500-1500,1 Day,Low,Solo,Hyderabad Airport
+South,TL,Hyderabad,Birla Planetarium Hyderabad,Science,Year-round,150,200-1000,2 Hours,Low,Students/Kids,Hyderabad Airport
+South,TL,Hyderabad,NTR Gardens,Nature/Garden,Year-round,20,200-1000,1 Day,Low,Families,Hyderabad Airport
+South,TL,Hyderabad,Snow World,Entertainment,Year-round,500,1000-3000,3 Hours,Medium,Kids/Families,Hyderabad Airport
+South,TL,Hyderabad,Sudha Cars Museum,Museum,Year-round,50,100-500,1 Hour,Low,Curiosity Seekers,Hyderabad Airport
+South,TL,Hyderabad,Makkah Masjid,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Hyderabad Airport
+South,TL,Medak,Medak Cathedral,Spiritual,Year-round,0,1000-3000,1 Day,Low,Family,Hyderabad Airport
+South,TL,Nalgonda,Nagarjuna Sagar,Nature/Engineering,Oct-Mar,0,3000-6000,1 Day,Low,Family,Hyderabad Airport
+South,TL,Nirmal,Kuntala Waterfall,Nature,Sep-Dec,0,2000-5000,1 Day,High,Friends,Hyderabad Airport
+South,TL,Warangal,Thousand Pillar,Spiritual,Year-round,0,3000-6000,1 Day,Low,Family,Hyderabad Airport
+South,TL,Warangal,Ramappa Temple,History/Spiritual,Year-round,0,2000-5000,1 Day,Low,All,Hyderabad Airport
+South,TL,Warangal,Laknavaram Lake,Nature,Oct-Mar,50,2000-5000,1 Day,Medium,Friends,Hyderabad Airport
+South,TL,Warangal,Warangal Fort,History,Oct-Mar,25,500-1500,1 Day,Medium,History Buffs,Hyderabad Airport
+South,TL,Warangal,Thousand Pillar Temple,History/Spiritual,Oct-Mar,0,200-1000,2 Hours,Low,History Lovers,Hyderabad Airport
+South,TN,Ambasamudram,Papanasam Falls,Waterfall,Oct-Mar,0,200-1000,1 Day,Medium,Pilgrims,Tuticorin Airport
+South,TN,Ambasamudram,Manimuthar Falls,Waterfall,Oct-Mar,10,200-1000,1 Day,Medium,Nature Lovers,Tuticorin Airport
+South,TN,Ariyalur,Gangaikonda Cholapuram,History,Oct-Mar,20,500-1500,1 Day,Low,History Buffs,Tiruchirappalli Airport
+South,TN,Chennai,Marina Beach,Beach,Evening,0,500-2000,1 Day,Low,All,Chennai Airport
+South,TN,Chennai,Kapaleeshwarar,Spiritual,Year-round,0,1000-3000,1 Day,Low,Family,Chennai Airport
+South,TN,Chennai,Kapaleeshwarar Temple,Spiritual,Year-round,0,100-500,1 Day,Low,Pilgrims,Chennai Airport
+South,TN,Chennai,Fort St. George,History,Year-round,25,200-1000,2 Hours,Low,History Lovers,Chennai Airport
+South,TN,Chennai,Arignar Anna Zoological Park,Wildlife,Year-round,50,200-1000,1 Day,Medium,Families/Kids,Chennai Airport
+South,TN,Chennai,DakshinaChitra,Culture/Art,Year-round,100,200-1000,3 Hours,Low,Culture Seekers,Chennai Airport
+South,TN,Chennai,Guindy National Park,Wildlife,Year-round,20,100-500,2 Hours,Low,Nature Lovers,Chennai Airport
+South,TN,Chennai,MGR Memorial,History/Park,Year-round,0,100-500,1 Hour,Low,All,Chennai Airport
+South,TN,Chennai,San Thome Basilica,Spiritual/History,Year-round,0,100-500,1 Hour,Low,All,Chennai Airport
+South,TN,Chennai,Vivekananda House,History/Spiritual,Year-round,20,100-500,1 Hour,Low,All,Chennai Airport
+South,TN,Chennai,Elliot's Beach,Beach,Evening,0,100-500,2 Hours,Low,All,Chennai Airport
+South,TN,Chennai,Parthasarathy Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Chennai Airport
+South,TN,Chidambaram,Nataraja Temple,Spiritual,Year-round,0,2000-5000,1 Day,Medium,Family,Chennai Airport
+South,TN,Chidambaram,Pichavaram,Nature/Adventure,Oct-Mar,20,500-1500,1 Day,Medium,Nature Lovers,Tiruchirappalli Airport
+South,TN,Coimbatore,Adiyogi Shiva,Spiritual,Year-round,0,2000-5000,1 Day,Low,All,Coimbatore Airport
+South,TN,Coimbatore,Marudhamalai Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Family,Coimbatore Airport
+South,TN,Coimbatore,Valparai Plateau,Hill Station,Oct-Mar,0,2000-6000,2 Days,Medium,Nature Lovers,Coimbatore Airport
+South,TN,Coimbatore,Gedee Car Museum,Museum,Year-round,50,100-500,1 Hour,Low,All,Coimbatore Airport
+South,TN,Coimbatore,Velliangiri Hills,Nature/Spiritual,Feb-May,0,1000-3000,1 Day,High,Adventure Seekers,Coimbatore Airport
+South,TN,Coonoor,Sim's Park,Nature,Year-round,30,100-500,2 Hours,Low,Families,Coimbatore Airport
+South,TN,Coonoor,Dolphin's Nose,View Point,Oct-Mar,0,100-500,1 Hour,Low,Nature Lovers,Coimbatore Airport
+South,TN,Coonoor,Lamb's Rock,View Point,Oct-Mar,0,100-500,1 Hour,Low,Nature Lovers,Coimbatore Airport
+South,TN,Courtallam,Main Falls,Nature,Jun-Sep,0,2000-5000,1 Day,Medium,Family,Tuticorin Airport
+South,TN,Dhanushkodi,Ghost Town,History/Beach,Oct-Mar,0,2000-4000,1 Day,Medium,Solo,Madurai Airport
+South,TN,Dharmapuri,Hogenakkal Falls,Waterfall,Oct-Mar,0,500-2000,1 Day,Medium,Families/Friends,Bangalore Airport
+South,TN,Kanchipuram,Kailasanathar Temple,Spiritual/History,Oct-Mar,0,200-1000,1 Day,Low,History Lovers,Chennai Airport
+South,TN,Kanyakumari,Vivekananda Rock,Spiritual,Oct-Mar,50,4000-8000,1 Day,Medium,All,Trivandrum Airport
+South,TN,Kanyakumari,Thiruvalluvar Statue,History,Oct-Mar,0,200-1000,1 Day,Medium,All,Trivandrum Airport
+South,TN,Kanyakumari,Kumari Amman Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Trivandrum Airport
+South,TN,Kodaikanal,Kodai Lake,Lake,Apr-Jun,0,7000-13000,1 Day,Medium,"Family, Couples",Madurai Airport
+South,TN,Kodaikanal,Coaker's Walk,Nature/View,Year-round,25,200-1000,1 Day,Low,All,Madurai Airport
+South,TN,Kodaikanal,Silver Cascade,Waterfall,Year-round,0,100-500,1 Day,Low,All,Madurai Airport
+South,TN,Kodaikanal,Bryant Park,Nature,Year-round,30,100-500,2 Hours,Low,Families,Madurai Airport
+South,TN,Kodaikanal,Pillar Rocks,View Point,Oct-Mar,5,100-300,1 Hour,Low,Nature Lovers,Madurai Airport
+South,TN,Kumbakonam,Airavatesvara Temple,History/Spiritual,Year-round,0,3000-6000,1 Day,Low,Family,Tiruchirappalli Airport
+South,TN,Kumbakonam,Darasuram Airavatesvara,History,Oct-Mar,20,500-1500,1 Day,Low,History Buffs,Tiruchirappalli Airport
+South,TN,Madurai,Meenakshi Amman,Spiritual,Year-round,0,3000-7000,1 Day,Medium,Family,Madurai Airport
+South,TN,Madurai,Gandhi Memorial Museum,History,Year-round,0,100-500,1 Day,Low,All,Madurai Airport
+South,TN,Madurai,Meenakshi Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Madurai Airport
+South,TN,Madurai,Thirumalai Nayakkar Mahal,History,Year-round,10,100-500,2 Hours,Low,Architecture Lovers,Madurai Airport
+South,TN,Madurai,Koodal Azhagar Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Madurai Airport
+South,TN,Mahabalipuram,Shore Temple,History,Oct-Mar,40,3000-6000,1 Day,Medium,All,Chennai Airport
+South,TN,Mahabalipuram,Five Rathas,History,Oct-Mar,40,500-1500,1 Day,Medium,All,Chennai Airport
+South,TN,Mahabalipuram,Arjuna's Penance,History,Oct-Mar,0,100-500,1 Hour,Low,History Buffs,Chennai Airport
+South,TN,Mayiladuthurai,Tharangambadi Fort,History/Beach,Oct-Mar,10,500-2000,1 Day,Low,History Lovers,Tiruchirappalli Airport
+South,TN,Nagapattinam,Poompuhar,History,Oct-Mar,0,1000-3000,1 Day,Low,All,Tiruchirappalli Airport
+South,TN,Namakkal,Kolli Hills,Hill Station,Year-round,0,1000-4000,2 Days,High,Bikers/Nature,Trichy Airport
+South,TN,Nilgiris,Coonoor Tea Gardens,Hill Station,Oct-Jun,0,2000-6000,2 Days,Low,Couples,Coimbatore Airport
+South,TN,Nilgiris,Kotagiri Hills,Hill Station,Oct-Jun,0,1500-5000,2 Days,Low,Nature Lovers,Coimbatore Airport
+South,TN,Nilgiris,Catherine Falls,Waterfall,Oct-May,0,500-1500,1 Day,Medium,Nature Lovers,Coimbatore Airport
+South,TN,Ooty,Botanical Garden,Nature,Apr-Jun,30,5000-10000,1 Day,Medium,Family,Coimbatore Airport
+South,TN,Ooty,Doddabetta Peak,Nature/View,Oct-May,10,1000-3000,1 Day,Low,All,Coimbatore Airport
+South,TN,Ooty,Pykara Lake,Nature,Oct-May,20,1000-3000,1 Day,Medium,All,Coimbatore Airport
+South,TN,Ooty,Rose Garden,Nature,Apr-Jun,30,200-1000,1 Day,Low,Family,Coimbatore Airport
+South,TN,Ooty,Botanical Garden Ooty,Nature,Year-round,30,100-500,2 Hours,Low,Families,Coimbatore Airport
+South,TN,Ooty,Rose Garden Ooty,Nature,Year-round,30,100-500,2 Hours,Low,Nature Lovers,Coimbatore Airport
+South,TN,Ooty,Ooty Lake,Nature,Year-round,15,500-1500,1 Day,Low,Families,Coimbatore Airport
+South,TN,Papanasam,Agasthiyar Falls,Waterfall,Oct-Mar,10,200-1000,1 Day,Medium,Nature Lovers,Tuticorin Airport
+South,TN,Pondicherry,Auroville,Spiritual,Oct-Mar,0,4000-9000,1 Day,Medium,Solo,Chennai Airport
+South,TN,Pondicherry,Paradise Beach,Beach,Oct-Mar,0,3000-6000,1 Day,Medium,Friends,Chennai Airport
+South,TN,Rameshwaram,Dhanushkodi Beach,Nature/History,Oct-Mar,0,500-1500,1 Day,Medium,Adventure Seekers,Madurai Airport
+South,TN,Rameshwaram,Ramanathaswamy Temple,Spiritual,Year-round,0,500-3000,1 Day,Medium,Pilgrims,Madurai Airport
+South,TN,Rameshwaram,Vivekananda Memorial Hall,History,Oct-Mar,10,100-500,1 Hour,Low,All,Madurai Airport
+South,TN,Rameswaram,Ramanathaswamy,Spiritual,Year-round,0,6000-12000,2 Days,Medium,Family,Madurai Airport
+South,TN,Salem,Yercaud Lake,Hill Station,Oct-Jun,0,1000-3000,1 Day,Low,All,Trichy Airport
+South,TN,Salem,Mettur Dam,Nature/Engineering,Year-round,0,200-1000,1 Day,Low,All,Trichy Airport
+South,TN,Sivaganga,Chettinad Mansions,Culture/History,Oct-Mar,0,2000-7000,2 Days,Low,Culture Lovers,Madurai Airport
+South,TN,Tenkasi,Courtallam Falls,Waterfall,Jun-Sep,0,200-1000,1 Day,Medium,Families,Tuticorin Airport
+South,TN,Thanjavur,Brihadeeswara,Spiritual,Oct-Mar,0,4000-8000,1 Day,Low,Family,Tiruchirappalli Airport
+South,TN,Thanjavur,Brihadisvara Temple,History/Spiritual,Oct-Mar,40,500-2000,1 Day,Medium,History Buffs,Tiruchirappalli Airport
+South,TN,Thanjavur,Kumbakonam Temples,Spiritual/History,Oct-Mar,0,500-3000,1 Day,Medium,Pilgrims,Tiruchirappalli Airport
+South,TN,Thanjavur,Thanjavur Royal Palace,History,Oct-Mar,50,200-1000,2 Hours,Low,History Lovers,Tiruchirappalli Airport
+South,TN,Thiruvannamalai,Annamalaiyar Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Chennai Airport
+South,TN,Tiruchirappalli,Rockfort Temple,Spiritual,Year-round,0,1000-3000,1 Day,High,Family,Tiruchirappalli Airport
+South,TN,Tiruchirappalli,Srirangam Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Trichy Airport
+South,TN,Tiruchirappalli,St. Lourdes Church,Spiritual/History,Year-round,0,100-500,1 Hour,Low,All,Trichy Airport
+South,TN,Tirunelveli,Nellaiyappar Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Family,Tuticorin Airport
+South,TN,Tuticorin,Thiruchendur Temple,Spiritual,Year-round,0,2000-5000,1 Day,Medium,Family,Tuticorin Airport
+South,TN,Velankanni,Church,Spiritual,Year-round,0,2000-5000,1 Day,Low,Family,Tiruchirappalli Airport
+South,TN,Vellore,Yelagiri Hills,Hill Station,Nov-Feb,0,1000-4000,1-2 Days,Low,Families/Couples,Bangalore Airport
+South,TN,Villupuram,Gingee Fort,History/Trek,Oct-Mar,25,500-1500,1 Day,High,History Lovers,Chennai Airport
+South,TN,Yercaud,Emerald Lake,Nature,Oct-Jun,0,5000-10000,2 Days,Low,Family,Salem Station
+South,TN,Yercaud,Lady's Seat,Nature/View,Oct-Jun,0,1000-3000,1 Day,Low,Family,Salem Station
+West,DD,Daman,Daman Lighthouse,History/View,Oct-Mar,0,100-300,1 Hour,Low,All,Surat Airport
+West,DD,Daman,Moti Daman Fort,History,Oct-Mar,0,200-500,2 Hours,Low,History Lovers,Surat Airport
+West,DN,Silvassa,Vanganga Lake,Nature,Oct-Mar,20,100-500,2 Hours,Low,Families,Surat Airport
+West,DN,Silvassa,Dudhni Lake,Nature,Oct-Mar,0,500-1500,1 Day,Medium,Nature Lovers,Surat Airport
+West,GA,Anjuna,Anjuna Beach,Beach,Nov-Feb,0,1000-3000,1 Day,Medium,Backpackers/Friends,Goa Airport
+West,GA,Calangute,Calangute Beach,Beach,Nov-Feb,0,1000-3000,1 Day,Medium,Friends/Families,Goa Airport
+West,GA,Candolim,Aguada Fort,History,Oct-Mar,0,200-500,2 Hours,Medium,Everyone,Goa Airport
+West,GA,North Goa,Baga Beach,Beach,Nov-Feb,0,10000-20000,3 Days,Medium,"Friends, Couples",Goa Airport
+West,GA,Old Goa,Basilica of Bom Jesus,History,Year-round,0,2000-5000,1 Day,Low,"Family, All",Goa Airport
+West,GA,Old Goa,Se Cathedral,Spiritual/History,Year-round,0,100-500,1 Hour,Low,All,Goa Airport
+West,GA,Panjim,Dudhsagar Falls,Waterfall,Jun-Sep,400,5000-8000,1 Day,High,Friends,Goa Airport
+West,GA,South Goa,Palolem Beach,Beach,Nov-Feb,0,10000-18000,3 Days,Low,"Couples, Solo",Goa Airport
+West,GA,Vagator,Chapora Fort,History/View,Oct-Mar,0,200-500,2 Hours,Medium,Friends,Goa Airport
+West,GJ,Ahmedabad,Sabarmati Ashram,History,Year-round,0,1000-3000,1 Day,Low,"Family, All",Ahmedabad Airport
+West,GJ,Ahmedabad,Adalaj Stepwell,History,Year-round,25,1000-3000,1 Day,Medium,All,Ahmedabad Airport
+West,GJ,Ahmedabad,Kankaria Lake,Nature/Entertainment,Evening,20,500-2000,1 Day,Medium,Kids,Ahmedabad Airport
+West,GJ,Ahmedabad,Science City,Education,Year-round,50,1000-3000,1 Day,High,Kids,Ahmedabad Airport
+West,GJ,Ahmedabad,Calico Museum of Textiles,Culture,Year-round,0,500-1500,1 Day,Low,Solo,Ahmedabad Airport
+West,GJ,Ahmedabad,Lothal,History,Oct-Mar,5,500-1500,1 Day,Low,History Buffs,Ahmedabad Airport
+West,GJ,Ahmedabad,Sidi Saiyyed Mosque,History,Year-round,0,100-300,1 Hour,Low,Architecture Lovers,Ahmedabad Airport
+West,GJ,Ahmedabad,Sabarmati Riverfront,Nature,Year-round,0,100-500,1 Day,Low,Families,Ahmedabad Airport
+West,GJ,Ahmedabad,Auto World Vintage Car Museum,History,Year-round,100,200-1000,2 Hours,Low,Everyone,Ahmedabad Airport
+West,GJ,Ahmedabad,Hutheesing Jain Temple,Spiritual/History,Year-round,0,100-300,1 Hour,Low,Architecture Lovers,Ahmedabad Airport
+West,GJ,Ahmedabad,Science City Ahmedabad,Science,Year-round,50,500-1500,1 Day,Medium,Kids/Students,Ahmedabad Airport
+West,GJ,Ahmedabad,Sanskar Kendra,History/Museum,Year-round,10,100-500,2 Hours,Low,History Lovers,Ahmedabad Airport
+West,GJ,Ahmedabad,Vishwa Shanti Ashram,Spiritual,Year-round,0,100-500,1 Hour,Low,Peace Seekers,Ahmedabad Airport
+West,GJ,Anand,Amul Dairy Museum,Industry/Education,Year-round,0,500-1500,1 Day,Low,Kids,Vadodara Airport
+West,GJ,Bhavnagar,Palitana Temples,Spiritual,Oct-Mar,0,4000-9000,1 Day,High,Family,Bhavnagar Airport
+West,GJ,Bhavnagar,Velavadar Blackbuck Park,Wildlife,Dec-Mar,500,6000-11000,2 Days,Medium,Solo,Bhavnagar Airport
+West,GJ,Bhuj,Aina Mahal,History,Oct-Mar,20,100-500,1 Hour,Low,History Lovers,Bhuj Airport
+West,GJ,Bhuj,Prag Mahal,History,Oct-Mar,20,100-500,1 Hour,Low,History Lovers,Bhuj Airport
+West,GJ,Champaner,Pavagadh Hill,Spiritual/History,Year-round,0,3000-7000,1 Day,High,Family,Vadodara Airport
+West,GJ,Dharampur,Wilson Hills,Hill Station,Jul-Sep,0,500-1500,1 Day,Low,Nature Lovers,Surat Airport
+West,GJ,Diu,Diu Fort,History,Year-round,0,2000-5000,1 Day,Medium,All,Diu Airport
+West,GJ,Diu,Nagoa Beach,Beach,Oct-Mar,0,500-1500,1 Day,Medium,Families,Diu Airport
+West,GJ,Diu,Gangeshwar Mahadev Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Diu Airport
+West,GJ,Dwaraka,Rukmini Devi Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Jamnagar Airport
+West,GJ,Dwarka,Dwarkadhish Temple,Spiritual,Year-round,0,5000-10000,2 Days,Medium,"Family, Senior Citizens",Jamnagar Airport
+West,GJ,Dwarka,Nageshwar Jyotirlinga,Spiritual,Year-round,0,1000-3000,1 Day,Low,Family,Jamnagar Airport
+West,GJ,Dwarka,Bet Dwarka,Spiritual,Year-round,0,2000-5000,1 Day,Medium,Family,Jamnagar Airport
+West,GJ,Gandhinagar,Akshardham Temple,Spiritual,Oct-Mar,0,100-500,1 Day,Low,Families,Ahmedabad Airport
+West,GJ,Gondal,Naulakha Palace,History,Year-round,50,2000-5000,1 Day,Low,Family,Rajkot Airport
+West,GJ,Jamnagar,Lakhota Lake,Nature,Evening,0,500-1500,1 Day,Low,All,Jamnagar Airport
+West,GJ,Junagadh,Gir National Park,Wildlife,Dec-Mar,800,10000-18000,2 Days,Medium,"Family, Friends",Rajkot Airport
+West,GJ,Junagadh,Junagadh Fort,History,Oct-Mar,25,500-1500,1 Day,Medium,History Lovers,Rajkot Airport
+West,GJ,Junagadh,Uparkot Fort,History,Oct-Mar,25,500-1500,1 Day,High,History Lovers,Rajkot Airport
+West,GJ,Junagadh,Girnar Hill,Spiritual/Trek,Nov-Feb,0,1000-3000,1 Day,High,Pilgrims,Rajkot Airport
+West,GJ,Junagadh,Mahabat Maqbara,History,Year-round,0,100-500,1 Hour,Low,History Lovers,Rajkot Airport
+West,GJ,Kevadia,Statue of Unity,Monument,Oct-Mar,150,3000-6000,1 Day,Medium,"Family, Kids",Vadodara Station
+West,GJ,Kevadia,Statue of Unity Complex,Engineering/History,Year-round,150,2000-5000,1 Day,Medium,Everyone,Vadodara Airport
+West,GJ,Kutch,Rann of Kutch,Desert,Nov-Feb,100,12000-20000,3 Days,Medium,"Solo, Couples",Bhuj Airport
+West,GJ,Kutch,Narayan Sarovar,Spiritual,Year-round,0,4000-8000,1 Day,Low,Family,Bhuj Airport
+West,GJ,Kutch,Kalo Dungar,Nature/View,Oct-Mar,0,1000-3000,1 Day,Medium,All,Bhuj Airport
+West,GJ,Mandvi,Vijay Vilas Palace,History,Year-round,50,2000-5000,1 Day,Low,Family,Bhuj Airport
+West,GJ,Mandvi,Mandvi Beach,Beach,Evening,0,1000-3000,1 Day,Low,All,Bhuj Airport
+West,GJ,Modhera,Modhera Sun Temple,History,Oct-Mar,25,2000-4000,1 Day,Medium,All,Ahmedabad Airport
+West,GJ,Modhera,Sun Temple Modhera,History,Oct-Mar,25,500-1500,1 Day,Low,History Lovers,Ahmedabad Airport
+West,GJ,Panchmahal,Champaner-Pavagadh,History,Oct-Mar,30,500-2000,1 Day,Medium,History Lovers,Vadodara Airport
+West,GJ,Patan,Rani Ki Vav,History,Year-round,40,2000-5000,1 Day,Medium,All,Ahmedabad Airport
+West,GJ,Pavagadh,Kalika Mata Temple,Spiritual,Year-round,0,500-2000,1 Day,High,Pilgrims,Vadodara Airport
+West,GJ,Porbandar,Kirti Mandir,History,Year-round,0,500-1500,1 Day,Low,All,Porbandar Airport
+West,GJ,Rajkot,Watson Museum,History,Year-round,10,200-1000,1 Day,Low,All,Rajkot Airport
+West,GJ,Saputara,Lake Garden,Nature,Year-round,0,5000-10000,2 Days,Low,Family,Surat Airport
+West,GJ,Saputara,Saputara Lake,Hill Station,Oct-Feb,0,1000-3000,1 Day,Low,Families,Surat Airport
+West,GJ,Somnath,Somnath Temple,Spiritual,Oct-Mar,0,5000-9000,1 Day,Low,"Family, Senior Citizens",Veraval Station
+West,GJ,Surat,Dumas Beach,Beach,Evening,0,500-2000,1 Day,Low,Friends,Surat Airport
+West,GJ,Surat,Surat Castle,History,Year-round,20,100-500,1 Hour,Low,History Buffs,Surat Airport
+West,GJ,Vadodara,Laxmi Vilas Palace,History,Year-round,225,2000-5000,1 Day,Low,Family,Vadodara Airport
+West,GJ,Vadodara,Sayaji Baug,Garden/Museum,Year-round,10,500-1500,1 Day,Medium,Kids,Vadodara Airport
+West,GJ,Vadodara,EME Temple,Spiritual/Engineering,Year-round,0,100-300,1 Hour,Low,Architecture Lovers,Vadodara Airport
+West,GJ,Vadodara,Maharaja Fatesingh Museum,History/Art,Year-round,100,100-500,2 Hours,Low,Art Lovers,Vadodara Airport
+West,GJ,Vadodara,Baroda Museum and Picture Gallery,History/Art,Year-round,10,100-500,2 Hours,Low,Art Lovers,Vadodara Airport
+West,GJ,Veraval,Somnath Temple Complex,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Rajkot Airport
+West,GJ,Veraval,Bhalka Tirth,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Rajkot Airport
+West,MH,Ahmednagar,Shani Shingnapur,Spiritual,Year-round,0,2000-5000,1 Day,Low,Family,Aurangabad Airport
+West,MH,Alibaug,Kashid Beach,Beach,Nov-Feb,0,4000-9000,2 Days,Medium,Couples,Mumbai Airport
+West,MH,Alibaug,Kolaba Fort,History,Oct-Mar,25,1000-3000,1 Day,Medium,All,Mumbai Airport
+West,MH,Alibaug,Alibaug Beach,Beach,Oct-Mar,0,1000-4000,1 Day,Medium,Friends,Mumbai Airport
+West,MH,Amravati,Chikhaldara,Hill Station,Oct-Jun,0,5000-10000,2 Days,Low,Family,Nagpur Airport
+West,MH,Aurangabad,Ajanta Caves,History,Nov-Mar,40,8000-14000,2 Days,High,"Solo, History Buffs",Aurangabad Airport
+West,MH,Aurangabad,Ellora Caves,History,Nov-Mar,40,6000-12000,1 Day,High,"Solo, History Buffs",Aurangabad Airport
+West,MH,Aurangabad,Bibi Ka Maqbara,History,Year-round,25,200-1000,2 Hours,Low,History Lovers,Aurangabad Airport
+West,MH,Aurangabad,Panchakki,Engineering/History,Year-round,10,100-500,1 Hour,Low,History Buffs,Aurangabad Airport
+West,MH,Aurangabad,Daulatabad Fort,History,Year-round,25,500-1500,1 Day,High,Adventure Lovers,Aurangabad Airport
+West,MH,Bhandardara,Arthur Lake,Nature,Oct-Mar,0,4000-8000,2 Days,Low,Couples,Nasik Airport
+West,MH,Bhimashankar,Jyotirlinga Temple,Spiritual/Nature,Year-round,0,4000-8000,1 Day,High,Family,Pune Airport
+West,MH,Buldhana,Lonar Lake,Nature/History,Oct-Mar,0,500-2000,1 Day,Medium,Science Lovers,Aurangabad Airport
+West,MH,Chandrapur,Tadoba National Park,Wildlife,Oct-Jun,1000,5000-15000,2 Days,Medium,Wildlife Lovers,Nagpur Airport
+West,MH,Chiplun,Parshuram Temple,Spiritual,Year-round,0,2000-5000,1 Day,Low,Family,Chiplun Station
+West,MH,Ganpatipule,Ganesh Temple,Spiritual,Year-round,0,6000-11000,2 Days,Low,Family,Ratnagiri Station
+West,MH,Ganpatipule,Ganpatipule Temple,Spiritual/Beach,Oct-Mar,0,1000-3000,1 Day,Low,Pilgrims,Ratnagiri Airport
+West,MH,Igathpuri,Vipassana Centre,Spiritual,Year-round,0,2000-5000,2 Days,Low,Solo,Nasik Airport
+West,MH,Jawhar,Jai Vilas Palace,History,Year-round,20,2000-5000,1 Day,Low,Family,Nasik Airport
+West,MH,Karjat,Kondana Caves,History/Trek,Jul-Oct,0,1000-3000,1 Day,High,Friends,Mumbai Airport
+West,MH,Khandala,Duke's Nose,Adventure,Oct-Mar,0,2000-5000,1 Day,High,"Solo, Friends",Pune Airport
+West,MH,Khandala,Bhushi Dam,Nature,Jul-Sep,0,1000-3000,1 Day,Medium,Friends,Pune Airport
+West,MH,Kolhapur,Mahalakshmi Temple,Spiritual,Year-round,0,2000-5000,1 Day,Medium,Family,Kolhapur Station
+West,MH,Kolhapur,Panhala Fort,History,Oct-Mar,0,2000-5000,1 Day,Medium,Family,Kolhapur Station
+West,MH,Kolhapur,Mahalakshmi Temple Kolhapur,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Kolhapur Airport
+West,MH,Lonavala,Tiger Point,Nature/View,Jul-Sep,0,3000-6000,1 Day,Low,"Couples, Friends",Pune Airport
+West,MH,Lonavala,Bhushi Dam,Nature,Jul-Sep,0,2000-5000,1 Day,Medium,Friends,Pune Airport
+West,MH,Lonavala,Karla Caves,History,Oct-Mar,25,1000-3000,1 Day,High,Solo,Pune Airport
+West,MH,Lonavala,Lohagad Fort,History/Trek,Jul-Oct,0,2000-4000,1 Day,High,Friends,Pune Airport
+West,MH,Lonavala,Bhaja Caves,History,Oct-Mar,25,500-1500,1 Day,Medium,History Lovers,Pune Airport
+West,MH,Mahabaleshwar,Venna Lake,Lake/Nature,Mar-Jun,0,7000-12000,2 Days,Medium,"Family, Couples",Pune Airport
+West,MH,Mahabaleshwar,Pratapgad Fort,History,Oct-Mar,0,2000-5000,1 Day,High,Family,Pune Airport
+West,MH,Mahabaleshwar,Mapro Garden,Food/Nature,Year-round,0,500-2000,1 Day,Low,Family,Pune Airport
+West,MH,Mahabaleshwar,Arthur's Seat,View Point,Oct-Jun,0,500-1500,1 Day,Low,Nature Lovers,Pune Airport
+West,MH,Mahabaleshwar,Elephant's Head Point,View Point,Oct-Jun,0,200-1000,1 Hour,Low,Nature Lovers,Pune Airport
+West,MH,Malvan,Rock Garden,Nature/View,Evening,0,500-1500,1 Day,Low,All,Goa Airport
+West,MH,Matheran,Panorama Point,View Point,Oct-May,0,500-1500,1 Day,Medium,Nature Lovers,Mumbai Airport
+West,MH,Mumbai,Marine Drive,Nature/View,Evening,0,1000-4000,1 Day,Low,"Couples, Friends",Mumbai Airport
+West,MH,Mumbai,Elephanta Caves,History,Oct-Mar,40,2000-4000,1 Day,Medium,"Solo, Friends",Mumbai Airport
+West,MH,Mumbai,Kanheri Caves,History,Oct-Mar,15,1000-3000,1 Day,High,"Solo, Friends",Mumbai Airport
+West,MH,Mumbai,Juhu Beach,Beach,Evening,0,500-2000,1 Day,Low,All,Mumbai Airport
+West,MH,Mumbai,Siddhivinayak Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Family,Mumbai Airport
+West,MH,Mumbai,Haji Ali Dargah,Spiritual,Year-round,0,500-1500,1 Day,Medium,All,Mumbai Airport
+West,MH,Mumbai,Sanjay Gandhi Park,Nature,Oct-Mar,60,1000-3000,1 Day,Medium,Kids,Mumbai Airport
+West,MH,Mumbai,Mount Mary Church,Spiritual,Year-round,0,200-1000,1 Day,Low,All,Mumbai Airport
+West,MH,Mumbai,Chhatrapati Shivaji Terminus,History/Architecture,Year-round,0,0-500,1 Day,Low,All,Mumbai Airport
+West,MH,Mumbai,Bandra-Worli Sea Link,Engineering,Year-round,0,0-500,1 Day,Low,All,Mumbai Airport
+West,MH,Mumbai,Global Vipassana Pagoda,Spiritual,Year-round,0,500-1500,1 Day,Low,All,Mumbai Airport
+West,MH,Mumbai,Hanging Gardens,Nature,Year-round,0,100-500,1 Hour,Low,Families,Mumbai Airport
+West,MH,Mumbai,Mani Bhavan,History,Year-round,0,100-500,1 Hour,Low,History Lovers,Mumbai Airport
+West,MH,Mumbai,Bhau Daji Lad Museum,History/Art,Year-round,10,100-500,2 Hours,Low,History Lovers,Mumbai Airport
+West,MH,Mumbai,Taraporewala Aquarium,Nature,Year-round,60,200-1000,2 Hours,Low,Families/Kids,Mumbai Airport
+West,MH,Mumbai,Jehangir Art Gallery,Art,Year-round,0,100-500,1 Hour,Low,Art Lovers,Mumbai Airport
+West,MH,Mumbai,Crawford Market,History/Shopping,Year-round,0,200-1000,2 Hours,Medium,Shoppers,Mumbai Airport
+West,MH,Mumbai,Worli Fort,History/View,Year-round,0,100-500,1 Hour,Low,History Lovers,Mumbai Airport
+West,MH,Mumbai,National Gallery of Modern Art Mumbai,Art,Year-round,20,100-500,2 Hours,Low,Art Lovers,Mumbai Airport
+West,MH,Mumbai,National Park Borivali,Wildlife/Nature,Year-round,60,500-1500,1 Day,Medium,Families,Mumbai Airport
+West,MH,Murud,Janjira Fort,History,Oct-Mar,50,2000-5000,1 Day,Medium,Friends,Mumbai Airport
+West,MH,Nagpur,Deekshabhoomi,Spiritual,Year-round,0,500-1500,1 Day,Low,All,Nagpur Airport
+West,MH,Nagpur,Ambazari Lake,Nature,Evening,0,500-2000,1 Day,Low,Family,Nagpur Airport
+West,MH,Nagpur,Pench Tiger Reserve,Wildlife,Oct-Jun,1000,12000-20000,2 Days,Medium,Family,Nagpur Airport
+West,MH,Nashik,Sula Vineyards,Culture/Nature,Jan-Mar,400,5000-12000,1 Day,Low,Couples,Nasik Airport
+West,MH,Nashik,Anjaneri Hills,Trek/Spiritual,Sep-Mar,0,2000-5000,1 Day,High,Solo,Nasik Airport
+West,MH,Nashik,Trimbakeshwar Temple,Spiritual,Year-round,0,500-2000,1 Day,Medium,Pilgrims,Nashik Airport
+West,MH,Nashik,Pandavleni Caves,History,Oct-Mar,25,200-1000,2 Hours,Medium,History Lovers,Nashik Airport
+West,MH,Nashik,Saptashrungi Gad,Spiritual,Year-round,0,500-1500,1 Day,High,Pilgrims,Nashik Airport
+West,MH,Nashik,Muktidham Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Nashik Airport
+West,MH,Nashik,Kalaram Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Nashik Airport
+West,MH,Nashik,Sita Gufa,Spiritual/History,Year-round,0,100-500,1 Hour,Low,Pilgrims,Nashik Airport
+West,MH,Nasik,Panchavati,Spiritual,Year-round,0,3000-7000,1 Day,Medium,"Family, Senior Citizens",Nasik Airport
+West,MH,Palghar,Kelva Beach,Beach,Oct-Mar,0,2000-5000,1 Day,Low,Family,Mumbai Airport
+West,MH,Panchgani,Table Land,Nature/View,Sep-May,0,1000-3000,1 Day,Medium,All,Pune Airport
+West,MH,Panchgani,Sydney Point,View Point,Oct-Mar,0,100-500,1 Hour,Low,Nature Lovers,Pune Airport
+West,MH,Panchgani,Parsi Point,View Point,Oct-Mar,0,100-500,1 Hour,Low,Nature Lovers,Pune Airport
+West,MH,Pune,Shaniwar Wada,History,Year-round,25,1000-3000,1 Day,Low,"Family, All",Pune Airport
+West,MH,Pune,Sinhagad Fort,History/Trek,Jul-Feb,20,1000-3000,1 Day,High,Friends,Pune Airport
+West,MH,Pune,Aga Khan Palace,History,Year-round,25,500-1500,1 Day,Low,Family,Pune Airport
+West,MH,Pune,Pataleshwar Caves,History,Year-round,0,200-1000,1 Day,Low,All,Pune Airport
+West,MH,Pune,Malshej Ghat,Nature,Jul-Sep,0,1000-3000,1 Day,Medium,Nature Lovers,Pune Airport
+West,MH,Pune,Mulshi Dam,Nature,Jul-Sep,0,1000-3000,1 Day,Low,Couples,Pune Airport
+West,MH,Pune,Aga Khan Palace Pune,History,Year-round,25,100-500,2 Hours,Low,History Lovers,Pune Airport
+West,MH,Pune,Shaniwar Wada Palace,History,Year-round,25,100-500,2 Hours,Low,History Lovers,Pune Airport
+West,MH,Pune,Raja Dinkar Kelkar Museum,History/Art,Year-round,50,200-1000,2 Hours,Low,Art Lovers,Pune Airport
+West,MH,Pune,Pataleshwar Cave Temple,History/Spiritual,Year-round,0,100-300,1 Hour,Low,History Buffs,Pune Airport
+West,MH,Pune,Vetal Tekdi,Nature/View,Year-round,0,100-300,2 Hours,Medium,Nature Lovers,Pune Airport
+West,MH,Pune,Dagdusheth Halwai Ganpati,Spiritual,Year-round,0,100-500,1 Hour,Low,All,Pune Airport
+West,MH,Pune,Parvati Hill,History/Spiritual,Year-round,0,100-500,2 Hours,High,Nature Lovers,Pune Airport
+West,MH,Pune,Rajgad Fort,History/Trek,Jul-Feb,0,1000-3000,1 Day,High,Adventure Lovers,Pune Airport
+West,MH,Pune,Katraj Snake Park,Wildlife,Year-round,40,100-500,2 Hours,Low,Families/Kids,Pune Airport
+West,MH,Pune,Bund Garden,Nature/Park,Year-round,0,100-300,1 Hour,Low,All,Pune Airport
+West,MH,Pune,Chaturshringi Temple,Spiritual,Year-round,0,100-500,1 Hour,Low,Pilgrims,Pune Airport
+West,MH,Pune,Osho Teerth Park,Nature,Year-round,0,100-500,1 Hour,Low,Peace Seekers,Pune Airport
+West,MH,Raigad,Raigad Fort,History,Oct-Mar,25,3000-7000,1 Day,High,Family,Pune Airport
+West,MH,Raigad,Harihareshwar Beach,Beach/Spiritual,Oct-Mar,0,1000-3000,1 Day,Low,All,Pune Airport
+West,MH,Raigad,Diveagar Beach,Beach,Oct-Mar,0,1000-3000,1 Day,Low,Families,Pune Airport
+West,MH,Raigad,Murud Janjira Fort,History,Oct-Mar,0,500-2000,1 Day,Medium,Adventure Seekers,Mumbai Airport
+West,MH,Ratnagiri,Ratnadurg Fort,History,Oct-Mar,0,2000-5000,1 Day,Medium,All,Ratnagiri Station
+West,MH,Ratnagiri,Ganpatipule Beach,Beach,Oct-Mar,0,5000-10000,2 Days,Low,Family,Ratnagiri Station
+West,MH,Ratnagiri,Ratnagiri Fort,History,Oct-Mar,0,200-500,2 Hours,Medium,History Lovers,Ratnagiri Airport
+West,MH,Satara,Kaas Plateau,Nature/Flowers,Sep-Oct,100,3000-6000,1 Day,Medium,All,Pune Airport
+West,MH,Satara,Thoseghar Falls,Waterfall,Jul-Oct,20,1000-3000,1 Day,Medium,Family,Pune Airport
+West,MH,Sawantwadi,Moti Talab,Nature,Evening,0,500-1500,1 Day,Low,All,Goa Airport
+West,MH,Shirdi,Sai Baba Temple,Spiritual,Year-round,0,4000-8000,1 Day,Medium,"Family, Senior Citizens",Shirdi Airport
+West,MH,Sindhudurg,Sindhudurg Fort,History,Oct-Mar,50,3000-6000,1 Day,Medium,Family,Goa Airport
+West,MH,Solapur,Akkalkot Swami,Spiritual,Year-round,0,2000-5000,1 Day,Low,Family,Solapur Station
+West,MH,Solapur,Pandharpur Temple,Spiritual,Year-round,0,3000-6000,2 Days,Medium,Family,Solapur Station
+West,MH,Tarkarli,Tarkarli Beach,Beach/Adventure,Nov-Apr,0,7000-15000,2 Days,High,Friends,Goa Airport
+West,MH,Thane,Upvan Lake,Nature,Evening,0,200-1000,1 Day,Low,Couples,Mumbai Airport
+West,MH,Trimbak,Trimbakeshwar Temple,Spiritual,Year-round,0,2000-5000,1 Day,Medium,Family,Nasik Airport
+West,RJ,Ajmer,Ana Sagar Lake,Nature/Lake,Oct-Mar,0,100-500,1 Day,Low,All,Kishangarh Airport
+West,RJ,Ajmer,Adhai Din Ka Jhonpra,History,Oct-Mar,0,100-500,1 Hour,Low,History Lovers,Kishangarh Airport
+West,RJ,Alwar,Sariska National Park,Wildlife,Oct-Jun,100,2000-7000,2 Days,Medium,Wildlife Lovers,Jaipur Airport
+West,RJ,Bharatpur,Lohagarh Fort,History,Oct-Mar,0,200-1000,1 Day,Medium,History Lovers,Agra Airport
+West,RJ,Bikaner,Junagarh Fort Bikaner,History,Oct-Mar,50,500-1500,1 Day,Medium,History Lovers,Bikaner Airport
+West,RJ,Bikaner,Gajner Palace,History/Nature,Oct-Mar,100,500-2000,1 Day,Low,Couples/Families,Bikaner Airport
+West,RJ,Chittorgarh,Chittorgarh Fort Complex,History,Oct-Mar,40,500-1500,1 Day,High,History Lovers,Udaipur Airport
+West,RJ,Chittorgarh,Vijay Stambh,History,Oct-Mar,0,100-500,1 Hour,Medium,History Buffs,Udaipur Airport
+West,RJ,Chittorgarh,Padmini Palace,History,Oct-Mar,0,100-500,1 Hour,Low,History Lovers,Udaipur Airport
+West,RJ,Jaipur,City Palace Jaipur,History,Oct-Mar,200,500-2000,1 Day,Low,History Lovers,Jaipur Airport
+West,RJ,Jaipur,Jantar Mantar Jaipur,History/Science,Oct-Mar,50,200-1000,2 Hours,Low,History Buffs,Jaipur Airport
+West,RJ,Jaipur,Galta Ji Temple,Spiritual/Nature,Year-round,0,200-1000,1 Day,Medium,All,Jaipur Airport
+West,RJ,Jaipur,Chokhi Dhani Jaipur,Culture/Food,Year-round,800,1000-3000,Evening,Low,Families,Jaipur Airport
+West,RJ,Jodhpur,Mandore Gardens,Nature/History,Oct-Mar,0,100-500,2 Hours,Low,Families,Jodhpur Airport
+West,RJ,Jodhpur,Rao Jodha Desert Rock Park,Nature,Oct-Mar,100,200-1000,1 Day,Medium,Nature Lovers,Jodhpur Airport
+West,RJ,Jodhpur,Balsamand Lake,Nature/Lake,Oct-Mar,0,200-1000,1 Day,Low,Families,Jodhpur Airport
+West,RJ,Kumbhalgarh,Kumbhalgarh Fort Walls,History,Oct-Mar,40,500-2000,1 Day,High,Adventure Seekers,Udaipur Airport
+West,RJ,Mount Abu,Achalgarh Fort,History/Spiritual,Year-round,0,200-1000,1 Day,Medium,History Lovers,Udaipur Airport
+West,RJ,Mount Abu,Guru Shikhar,View Point,Year-round,0,200-1000,1 Day,Medium,Nature Lovers,Udaipur Airport
+West,RJ,Tanot,Tanot Mata Temple,Spiritual/History,Year-round,0,500-2000,1 Day,Low,All,Jaisalmer Airport
+West,RJ,Udaipur,Fateh Sagar Lake,Nature/Lake,Oct-Mar,0,100-500,1 Day,Low,All,Udaipur Airport
+West,RJ,Udaipur,Sajjangarh Monsoon Palace,History/View,Oct-Mar,60,200-1000,2 Hours,Medium,Nature Lovers,Udaipur Airport
+West,RJ,Udaipur,Jagmandir,History/Luxury,Oct-Mar,0,500-2000,1 Day,Low,Couples,Udaipur Airport
+West,RJ,Udaipur,Gulab Bagh and Zoo,Nature/Wildlife,Year-round,25,200-1000,1 Day,Low,Families/Kids,Udaipur Airport
+South,AP,Visakhapatnam,Indira Gandhi Zoological Park,Wildlife,Year-round,20,200-1000,1 Day,Medium,Families,Visakhapatnam Airport
