@@ -1,100 +1,13 @@
-# from flask import Flask, render_template, request
-# import pandas as pd
-# import re
-# from sklearn.feature_extraction.text import TfidfVectorizer
-# from sklearn.metrics.pairwise import cosine_similarity
-# from dataset_helper import get_recommendations, load_and_clean, generate_budget_graph
-
-
-# app = Flask(__name__)
-
-# # --- DATA LOADING & CLEANING ---
-# def load_and_clean():
-#     df = pd.read_csv('final_travel_data_1000.csv')
-#     df.columns = df.columns.str.strip()
-#     df['Type'] = df['Type'].fillna('general').str.lower()
-#     df['Best Visit Time'] = df['Best Visit Time'].fillna('year-round').str.lower()
-#     df['State'] = df['State'].fillna('India').str.upper()
-    
-#     # Cost cleaning logic
-#     def clean_cost(val):
-#         nums = re.findall(r'\d+', str(val).replace(',', ''))
-#         if len(nums) >= 2:
-#             return (int(nums[0]) + int(nums[1])) / 2
-#         return int(nums[0]) if nums else 0
-
-#     df['Budget_Num'] = df['Trip Cost'].apply(clean_cost)
-#     return df
-
-# df_master = load_and_clean()
-
-# # --- RECOMMENDATION LOGIC ---
-# def get_recommendations(month, state, budget, interests):
-#     df = df_master.copy()
-    
-#     # Primary Filters (Month & Budget)
-#     mask = (df['Best Visit Time'].str.contains(month.lower()) | (df['Best Visit Time'] == 'year-round')) & \
-#            (df['Budget_Num'] <= float(budget))
-    
-#     # State Filter
-#     if state != "All India":
-#         mask = mask & (df['State'] == state)
-        
-#     filtered = df[mask].copy()
-#     if filtered.empty: return []
-
-#     # ML Logic (TF-IDF) for Interest Matching
-#     tfidf = TfidfVectorizer(stop_words='english')
-#     tfidf_matrix = tfidf.fit_transform(filtered['Type'].str.replace('/', ' '))
-#     user_vec = tfidf.transform([interests.lower()])
-    
-#     filtered['Score'] = cosine_similarity(user_vec, tfidf_matrix).flatten()
-#     # Top 12 results return karein
-#     return filtered.sort_values(by='Score', ascending=False).head(12).to_dict('records')
-
-# @app.route('/', methods=['GET', 'POST'])
-# def index():
-#     states = sorted(df_master['State'].unique())
-#     months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
-#     results = None
-
-#     if request.method == 'POST':
-#         month = request.form.get('month')
-#         state = request.form.get('state')
-#         budget = request.form.get('budget', 5000)
-#         interests = request.form.get('interests', 'nature')
-        
-#         results = get_recommendations(month, state, budget, interests)
-
-#     return render_template('index.html', states=states, months=months, results=results)
-
-# # from dataset_helper import get_recommendations, load_and_clean, generate_budget_graph
-
-# @app.route('/', methods=['GET', 'POST'])
-# def index():
-#     # ... purana code ...
-#     graph = None
-#     if request.method == 'POST':
-#         # ... inputs lene wala code ...
-#         results_data = get_recommendations(month, state, budget, interests)
-#         results_df = pd.DataFrame(results_data)
-        
-#         # Graph generate karein
-#         graph = generate_budget_graph(results_df)
-#         results = results_data # Dictionary format for template
-
-#     return render_template('index.html', states=states, months=months, results=results, graph=graph)
-# if __name__ == '__main__':
-#     app.run(debug=True)
-
 from flask import Flask, render_template, request, redirect, url_for, flash
 import pandas as pd
+import numpy as np  # <-- NEW: Numpy added for array operations
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.neighbors import NearestNeighbors  # <-- NEW: KNN Algorithm imported
 from sklearn.metrics.pairwise import cosine_similarity
-from dataset_helper import generate_budget_graph
+# from dataset_helper import generate_budget_graph
 
-import pymysql # Database create karne ke liye zaroori
+import pymysql
 from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
 from werkzeug.security import generate_password_hash, check_password_hash
@@ -104,13 +17,10 @@ app = Flask(__name__)
 # ==========================================
 # 🛑 AUTO-CREATE DATABASE LOGIC (MySQL) 🛑
 # ==========================================
-# Ye function check karega ki database hai ya nahi. Agar nahi, toh bana dega.
 def create_database_if_not_exists():
     try:
-        # XAMPP default connection (Bina database naam ke connect karo)
         conn = pymysql.connect(host='localhost', user='root', password='')
         cursor = conn.cursor()
-        # Database banane ki SQL query chalao
         cursor.execute("CREATE DATABASE IF NOT EXISTS bharat_yatra")
         conn.commit()
         cursor.close()
@@ -118,9 +28,7 @@ def create_database_if_not_exists():
         print("Database 'bharat_yatra' is ready!")
     except Exception as e:
         print(f"Error creating database: {e}")
-        print("Kripya check karein ki XAMPP mein MySQL start hai ya nahi.")
 
-# App start hone se pehle database banana zaroori hai
 create_database_if_not_exists()
 
 # ==========================================
@@ -135,7 +43,6 @@ login_manager = LoginManager()
 login_manager.init_app(app)
 login_manager.login_view = 'login' 
 
-# --- DATABASE MODEL (User Table) ---
 class User(UserMixin, db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(100))
@@ -147,7 +54,7 @@ def load_user(user_id):
     return User.query.get(int(user_id))
 
 
-# --- 1. DATA LOADING & CLEANING ---
+# --- 1. DATA LOADING & CLEANING (UPDATED FOR ML) ---
 def load_and_clean():
     try:
         df = pd.read_csv('final_travel_data_1000.csv')
@@ -155,14 +62,22 @@ def load_and_clean():
         df['Type'] = df['Type'].fillna('general').str.lower()
         df['Best Visit Time'] = df['Best Visit Time'].fillna('year-round').str.lower()
         df['State'] = df['State'].fillna('India').str.upper()
+        df['Ideal For'] = df['Ideal For'].fillna('all').str.lower()
         
+        # Budget cleaning - Extracting max budget
         def clean_cost(val):
             nums = re.findall(r'\d+', str(val).replace(',', ''))
-            if len(nums) >= 2:
-                return (int(nums[0]) + int(nums[1])) / 2
-            return int(nums[0]) if nums else 0
+            return int(nums[-1]) if nums else 0
 
-        df['Budget_Num'] = df['Trip Cost'].apply(clean_cost)
+        df['max_budget'] = df['Trip Cost'].apply(clean_cost)
+        
+        # NEW: Super-Content string for better ML pattern matching
+        df['content'] = (
+            df['Type'] + " " + 
+            df['Place Name'].fillna('').str.lower() + " " + 
+            df['Best Visit Time'] + " " + 
+            df['Ideal For']
+        )
         return df
     except FileNotFoundError:
         print("Error: final_travel_data_1000.csv file not found!")
@@ -170,35 +85,75 @@ def load_and_clean():
 
 df_master = load_and_clean()
 
-# --- 2. RECOMMENDATION LOGIC ---
+# --- NEW: KEYWORD EXPANSION LOGIC ---
+def expand_keywords(user_type):
+    """ Nearest Word Logic to prevent 'Not Found' """
+    synonyms = {
+        'trekking': 'adventure mountain hiking climbing',
+        'beach': 'sea water coastal ocean sand',
+        'nature': 'greenery forest hills scenic waterfall lake',
+        'spiritual': 'temple religious divine holy shrine',
+        'history': 'fort monument ancient heritage palace museum',
+        'wildlife': 'animal safari tiger bird sanctuary national park'
+    }
+    
+    expanded = str(user_type).lower()
+    for key, val in synonyms.items():
+        if key in expanded:
+            expanded += " " + val
+    return expanded
+
+
+# --- 2. RECOMMENDATION LOGIC (UPDATED WITH KNN & NO LIMIT) ---
 def get_recommendations(month, state, budget, interests):
     if df_master.empty: return pd.DataFrame()
     
     df = df_master.copy()
     
-    mask = (df['Best Visit Time'].str.contains(month.lower()) | (df['Best Visit Time'] == 'year-round')) & \
-           (df['Budget_Num'] <= float(budget))
-    
+    # Primary Filters (Hard Rules: Budget & State)
+    mask = (df['max_budget'] <= float(budget))
     if state != "All India":
-        mask = mask & (df['State'] == state)
+        mask = mask & (df['State'].str.lower() == state.lower())
         
     filtered = df[mask].copy()
     if filtered.empty: 
         return pd.DataFrame() 
 
-    tfidf = TfidfVectorizer(stop_words='english')
-    text_data = filtered['Type'].str.replace('/', ' ')
-    text_data = text_data.fillna('general') 
+    filtered = filtered.reset_index(drop=True)
+
+    # ML Logic: 1. Expand User Query
+    expanded_query = expand_keywords(interests) + " " + month.lower()
+
+    # ML Logic: 2. Vectorization
+    vec = TfidfVectorizer(stop_words='english')
+    matrix = vec.fit_transform(filtered['content'])
+    query_vec = vec.transform([expanded_query])
     
-    tfidf_matrix = tfidf.fit_transform(text_data)
-    user_vec = tfidf.transform([interests.lower()])
+    # ML Logic: 3. KNN Model
+    n_neighbors = min(len(filtered), 10) # Find up to 10 closest geometric points
+    knn = NearestNeighbors(n_neighbors=n_neighbors, metric='cosine')
+    knn.fit(matrix)
+    distances, indices = knn.kneighbors(query_vec)
     
-    filtered['Score'] = cosine_similarity(user_vec, tfidf_matrix).flatten()
-    return filtered.sort_values(by='Score', ascending=False).head(12)
+    # ML Logic: 4. Score Calculation
+    scores = np.zeros(len(filtered))
+    for i, idx in enumerate(indices[0]):
+        scores[idx] = 1 - distances[0][i]
+
+    # Assign score (HTML is using 'Score' column)
+    filtered['Score'] = scores
+
+    # Strict Sorting (No Randomness) & ALL MATCHES (Score > 0)
+    # Notice: .head(12) is REMOVED so it shows all matching items
+    final_results = filtered[filtered['Score'] > 0].sort_values(
+        by=['Score', 'Place Name'], ascending=[False, True]
+    )
+    
+    return final_results
 
 
 # ==========================================
-# AUTHENTICATION ROUTES
+# AUTHENTICATION ROUTES (Unchanged)
 # ==========================================
 @app.route('/signup', methods=['GET', 'POST'])
 def signup():
@@ -247,7 +202,7 @@ def logout():
     return redirect(url_for('login'))
 
 
-# --- 3. MAIN ROUTE ---
+# --- 3. MAIN ROUTE (Unchanged) ---
 @app.route('/', methods=['GET', 'POST'])
 @login_required 
 def index():
@@ -275,18 +230,13 @@ def index():
         results_df = get_recommendations(month, state, budget, interests)
         
         if not results_df.empty:
-            results = results_df.to_dict('records')
-            try:
-                graph = generate_budget_graph(results_df)
-            except Exception as e:
-                print(f"Graph Error: {e}")
-
+            results = results_df.to_dict('records') # HTML format untouched
+            graph = None
     return render_template('index.html', states=states, months=months, results=results, graph=graph, name=current_user.name)
 
 # ==========================================
 # CREATE TABLES AND RUN APP
 # ==========================================
-# Ye line check karegi ki 'user' table bani hai ya nahi. Agar nahi toh bana degi.
 with app.app_context():
     db.create_all()
 

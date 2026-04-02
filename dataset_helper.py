@@ -1,76 +1,135 @@
 import pandas as pd
+import numpy as np
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
-import plotly.express as px
+from sklearn.neighbors import NearestNeighbors
 
+class KNNTravelRecommender:
+    def __init__(self, file_path):
+        self.df = pd.read_csv(file_path)
+        self._prepare_data()
 
-def load_and_clean():
-    df = pd.read_csv('final_travel_data_1000.csv')
-    df.columns = df.columns.str.strip()
-    df['Type'] = df['Type'].fillna('general').str.lower()
-    df['Best Visit Time'] = df['Best Visit Time'].fillna('year-round').str.lower()
-    df['State'] = df['State'].fillna('India').str.upper()
-    
-    def clean_val(v):
-        n = re.findall(r'\d+', str(v).replace(',', ''))
-        return (int(n[0]) + int(n[1]))/2 if len(n) >= 2 else (int(n[0]) if n else 0)
+    def _clean_budget(self, cost_str):
+        try:
+            nums = re.findall(r'\d+', str(cost_str))
+            return int(nums[-1]) if nums else 0
+        except:
+            return 0
 
-    df['Budget_Num'] = df['Trip Cost'].apply(clean_val)
-    df['Days_Num'] = df['Stay Duration'].apply(clean_val)
-    return df
-# tfidf 
-def get_recommendations(month, state, budget, days, interests):
-    df = load_and_clean()
-    
-    # Filtering
-    mask = (df['Best Visit Time'].str.contains(month.lower()) | (df['Best Visit Time'] == 'year-round')) & \
-           (df['Budget_Num'] <= float(budget)) & \
-           (df['Days_Num'] <= float(days))
-    
-    if state != "All India":
-        mask = mask & (df['State'] == state)
+    def _prepare_data(self):
+        self.df['max_budget'] = self.df['Trip Cost'].apply(self._clean_budget)
         
-    filtered = df[mask].copy()
-    if filtered.empty: return []
+        # Super-Content String for ML Pattern Matching
+        self.df['content'] = (
+            self.df['Type'] + " " + 
+            self.df['Place Name'] + " " + 
+            self.df['Best Visit Time'] + " " + 
+            self.df['Ideal For']
+        ).str.lower()
 
-    # ML Logic
-    tfidf = TfidfVectorizer(stop_words='english')
-    tfidf_matrix = tfidf.fit_transform(filtered['Type'].str.replace('/', ' '))
-    user_vec = tfidf.transform([" ".join(interests)])
+    def _expand_keywords(self, user_type):
+        """ Nearest Word Logic to prevent 'Not Found' """
+        synonyms = {
+            'trekking': 'adventure mountain hiking climbing',
+            'beach': 'sea water coastal ocean sand',
+            'nature': 'greenery forest hills scenic waterfall lake',
+            'spiritual': 'temple religious divine holy shrine',
+            'history': 'fort monument ancient heritage palace museum',
+            'wildlife': 'animal safari tiger bird sanctuary national park'
+        }
+        
+        expanded = str(user_type).lower()
+        for key, val in synonyms.items():
+            if key in expanded:
+                expanded += " " + val
+        return expanded
+
+    def filter_hard_constraints(self, state, budget):
+        """ Filter by State and Budget (Hard Rules) """
+        return self.df[
+            (self.df['State'].str.lower() == state.lower()) & 
+            (self.df['max_budget'] <= budget)
+        ].copy()
+
+    def recommend(self, state, budget, month, travel_type, top_n=3):
+        # 1. Apply Hard Filters
+        df_filtered = self.filter_hard_constraints(state, budget)
+        if df_filtered.empty:
+            return pd.DataFrame()
+
+        df_filtered = df_filtered.reset_index(drop=True)
+        
+        # 2. Expand Query (e.g. Trekking -> Adventure)
+        expanded_query = self._expand_keywords(travel_type) + " " + month.lower()
+
+        # 3. Vectorization (Text to Numbers)
+        vec = TfidfVectorizer(stop_words='english')
+        matrix = vec.fit_transform(df_filtered['content'])
+        query_vec = vec.transform([expanded_query])
+        
+        # 4. KNN (K-Nearest Neighbors) Logic
+        # Metric is 'cosine' distance. 
+        knn = NearestNeighbors(n_neighbors=min(len(df_filtered), 10), metric='cosine')
+        knn.fit(matrix)
+        distances, indices = knn.kneighbors(query_vec)
+        
+        # 5. Convert Distances to Match Scores (Closer distance = Higher score)
+        scores = np.zeros(len(df_filtered))
+        for i, idx in enumerate(indices[0]):
+            scores[idx] = 1 - distances[0][i]
+
+        df_filtered['match_score'] = scores
+        
+        # 6. Sorting (No Randomness)
+        df_filtered = df_filtered.sort_values(by=['match_score', 'Place Name'], ascending=[False, True])
+        
+        return df_filtered[df_filtered['match_score'] > 0].head(top_n)[['Place Name', 'City', 'Type', 'match_score']]
+
+
+# ==========================================
+# EVALUATION SCRIPT: Check KNN Accuracy
+# ==========================================
+def evaluate_knn(recommender):
+    test_cases = [
+        {'state': 'RJ', 'budget': 5000, 'month': 'Oct', 'type': 'trekking', 'expected': ['adventure', 'nature', 'mountain', 'hill']},
+        {'state': 'CG', 'budget': 10000, 'month': 'Jul', 'type': 'waterfall', 'expected': ['waterfall', 'nature']},
+        {'state': 'RJ', 'budget': 3000, 'month': 'Dec', 'type': 'history', 'expected': ['history', 'fort', 'culture', 'heritage']},
+    ]
     
-    filtered['Score'] = cosine_similarity(user_vec, tfidf_matrix).flatten()
-    return filtered.sort_values(by='Score', ascending=False).head(10).to_dict('records')
-
-import plotly.express as px
-
-# # random forest model
-# def get_rf_recommendations(month, state, budget, days, interests):
-#     df=load_and_clean()
-#     mask = (df['Best Visit Time'].str.contains(month.lower()) | (df['Best Visit Time'] == 'year-round')) & \
-#            (df['Budget_Num'] <= float(budget)) & \
-#            (df['Days_Num'] <= float(days))
+    print("=========================================")
+    print("EVALUATING KNN RECOMMENDATION ACCURACY")
+    print("=========================================\n")
     
-#     if state != "All India":
-#         mask =mask & (df['State'] == state)
-#     filtered = df[mask].copy()
-#     if filtered.empty: return []    
-
-
-
-
-def generate_budget_graph(df_filtered):
-    if df_filtered.empty:
-        return None
+    total_precision = 0
+    K = 3
     
-   
-    fig = px.bar(df_filtered.head(10), 
-                 x='Place Name', 
-                 y='Budget_Num', 
-                 color='State',
-                 title="Budget Comparison of Recommended Places",
-                 labels={'Budget_Num':'Estimated Cost (₹)', 'Place Name':'Destination'})
-    
-    
-    graph_html = fig.to_html(full_html=False)
-    return graph_html
+    for i, test in enumerate(test_cases):
+        res = recommender.recommend(test['state'], test['budget'], test['month'], test['type'], top_n=K)
+        
+        relevant_hits = 0
+        actual_results_count = len(res)
+        
+        if not res.empty:
+            for _, row in res.iterrows():
+                item_type = str(row['Type']).lower()
+                if any(kw in item_type for kw in test['expected']):
+                    relevant_hits += 1
+                    
+        precision = relevant_hits / actual_results_count if actual_results_count > 0 else 0
+        total_precision += precision
+        
+        print(f"Test {i+1} [Query: '{test['type']}' in {test['state']}]: Accuracy = {precision*100:.2f}%")
+        if not res.empty:
+            print("Top Results:")
+            print(res.to_string(index=False))
+        else:
+            print("No matching places found.")
+        print("-" * 40)
+        
+    avg_accuracy = (total_precision / len(test_cases)) * 100
+    print(f"\nOVERALL KNN MODEL ACCURACY: {avg_accuracy:.2f}%")
+
+# Execution
+if __name__ == "__main__":
+    recommender = KNNTravelRecommender("final_travel_data_1000.csv")
+    evaluate_knn(recommender)
